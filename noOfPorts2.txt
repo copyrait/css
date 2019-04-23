@@ -1,0 +1,84 @@
+ip address is used to locate a device 9on network
+but mac address is used to actuaally identify the device
+
+to list all poorts on device
+
+command:
+nmap 192.168.31.1
+
+outut:
+Starting Nmap 7.70 ( https://nmap.org ) at 2019-04-22 08:55 IST
+Nmap scan report for XiaoQiang (192.168.31.1)
+Host is up (0.016s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+80/tcp   open  http
+8192/tcp open  sophos
+8193/tcp open  sophos
+8899/tcp open  ospf-lite
+
+To list open ports on device
+
+command:
+nmap 192.168.31.1
+
+outut:
+Starting Nmap 7.70 ( https://nmap.org ) at 2019-04-22 08:55 IST
+Nmap scan report for XiaoQiang (192.168.31.1)
+Host is up (0.016s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+80/tcp   open  http
+8192/tcp open  sophos
+8193/tcp open  sophos
+8899/tcp open  ospf-lite
+
+
+To find Services running on those open ports and their versions
+
+Command:
+sudo nmap -sV 192.168.31.1
+
+Output:
+Starting Nmap 7.70 ( https://nmap.org ) at 2019-04-22 08:58 IST
+Nmap scan report for XiaoQiang (192.168.31.1)
+Host is up (0.0049s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE VERSION
+53/tcp   open  domain  dnsmasq 2.71
+80/tcp   open  http    nginx (bad gateway)
+8192/tcp open  http    Tengine httpd
+8193/tcp open  http    nginx
+8899/tcp open  http    Tengine httpd
+MAC Address: 10:34:2A:BA:B4:2A (Xiaomi Electronics,co.)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 16.08 seconds
+
+
+
+To find operating system of those devices
+
+Command:
+sudo nmap -O 192.168.31.120
+
+Output:
+Starting Nmap 7.70 ( https://nmap.org ) at 2019-04-22 09:03 IST
+Nmap scan report for 192.168.31.120
+Host is up (0.000026s latency).
+All 1000 scanned ports on 192.168.31.120 are closed
+Device type: remote management|phone|general purpose|webcam|storage-misc
+Running: Avocent embedded, Google Android 2.X, Linux 2.6.X|3.X, AXIS embedded, ZyXEL embedded
+OS CPE: cpe:/o:google:android:2.2 cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:2.6.17 cpe:/h:axis:210a_network_camera cpe:/h:axis:211_network_camera cpe:/o:linux:linux_kernel:3.13 cpe:/h:zyxel:nsa-210
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 4.44 seconds
+
+
+
+
+
