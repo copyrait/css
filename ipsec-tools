@@ -1,0 +1,18 @@
+sudo apt-get install ipsec-tools strongswan-starter
+	edit /etc/ipsec.conf
+	append
+			conn red-to-blue
+				authby=secret
+				auto=route
+				keyexchange=ike
+				left=192.168.1.165
+				right=192.168.1.1
+				type=transport
+				esp=aes128gcm16!
+	
+	edit /etc/ipsec.secrets
+	append
+		192.168.1.165 192.168.1.1 : PSK "testpass"
+
+	same in reverse on other computer
+	check later using sudo tcpdump esp
