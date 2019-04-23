@@ -1,0 +1,149 @@
+Experiment 6:
+For detailed domain and network related information for given domain name
+
+implement WHOIS:
+info---
+//
+Gives entire information about wesite or domainname.Who is registrar ,where to contact,
+domain name registration date ,expiry date, etc.
+//
+
+sudo apt-get install whois
+
+command: 
+whois marvel.com
+output:
+	Domain Name: MARVEL.COM
+   Registry Domain ID: 5119856_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://www.cscglobal.com/global/web/csc/digital-brand-services.html
+   Updated Date: 2019-01-22T08:06:03Z
+   Creation Date: 1997-03-07T05:00:00Z
+   Registry Expiry Date: 2020-03-08T05:00:00Z
+   Registrar: CSC Corporate Domains, Inc.
+   Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: 8887802723
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
+...
+
+implement dig:
+info---
+//
+Dig stands for (Domain Information Groper) is a network administration 
+command-line tool for querying Domain Name System (DNS) name servers. 
+It is useful for verifying and troubleshooting DNS problems and also to perform 
+DNS lookups and displays the answers that are returned from the name server 
+that were queried.It uses UDP port 53 commonly sometimes TCP PORT 30.
+//
+
+command :
+dig marvel.com
+
+output:
+; <<>> DiG 9.11.3-1-Debian <<>> marvel.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55697
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 3
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 709b27f9f02ab5a54ddd812d5cbcb9306548f2b199844113 (good)
+;; QUESTION SECTION:
+;marvel.com.			IN	A
+
+;; ANSWER SECTION:
+marvel.com.		300	IN	A	72.32.138.96
+
+;; AUTHORITY SECTION:
+marvel.com.		128005	IN	NS	ns2.rackspace.com.
+marvel.com.		128005	IN	NS	ns.rackspace.com.
+
+;; ADDITIONAL SECTION:
+ns2.rackspace.com.	16431	IN	A	65.61.188.4
+ns.rackspace.com.	76813	IN	A	69.20.95.4
+
+;; Query time: 1160 msec
+;; SERVER: 192.168.31.1#53(192.168.31.1)
+;; WHEN: Mon Apr 22 00:10:48 IST 2019
+;; MSG SIZE  rcvd: 160
+
+implement traceroute:
+info---
+//
+Traceroute is a command which can show you the path a packet of
+ information takes from your computer to one you specify(or a website). 
+It will list all the routers it passes through until it reaches its destination,
+ or fails to and is discarded. In addition to this, 
+it will tell you how long each 'hop' from router to router takes.
+Traceroute shows only 30 hops.
+//
+
+sudo apt-get install traceroute
+
+command:
+traceroute marvel.com
+
+output:
+traceroute to marvel.com (72.32.138.96), 30 hops max, 60 byte packets
+ 1  XiaoQiang (192.168.31.1)  1.096 ms  1.136 ms  1.257 ms
+ 2  * * *
+ 3  dhcp-192-196-29.in2cable.com (203.192.196.29)  381.905 ms * *
+ 4  dhcp-192-198-254.in2cable.com (203.192.198.254)  378.826 ms  378.834 ms  378.829 ms
+ 5  * * *
+ 6  115.113.165.121.static-mumbai.vsnl.net.in (115.113.165.121)  381.802 ms  379.119 ms  379.079 ms
+ 7  172.23.78.229 (172.23.78.229)  379.079 ms  420.406 ms  427.246 ms
+ 8  172.17.169.202 (172.17.169.202)  455.278 ms  452.325 ms  452.293 ms
+ 9  ix-ae-4-2.tcore1.cxr-chennai.as6453.net (180.87.36.9)  452.339 ms  452.277 ms  452.258 ms
+10  if-ae-13-2.tcore1.svw-singapore.as6453.net (180.87.36.83)  484.590 ms  481.225 ms  491.649 ms
+11  if-ae-11-2.thar1.svq-singapore.as6453.net (180.87.98.37)  491.635 ms  491.505 ms  490.916 ms
+12  ae-9.a01.sngpsi07.sg.bb.gin.ntt.net (129.250.8.241)  490.899 ms  490.885 ms  486.948 ms
+13  ae-5.r01.sngpsi07.sg.bb.gin.ntt.net (129.250.2.241)  484.079 ms  490.128 ms  490.125 ms
+14  ae-2.r20.sngpsi07.sg.bb.gin.ntt.net (129.250.3.101)  490.118 ms  490.112 ms ae-1.r20.sngpsi07.sg.bb.gin.ntt.net (129.250.3.83)  490.097 ms
+15  ae-7.r20.sngpsi05.sg.bb.gin.ntt.net (129.250.4.33)  490.940 ms  474.503 ms  477.246 ms
+16  ae-8.r22.snjsca04.us.bb.gin.ntt.net (129.250.3.48)  569.314 ms  569.309 ms  569.297 ms
+17  ae-0.r23.snjsca04.us.bb.gin.ntt.net (129.250.2.183)  569.295 ms  569.897 ms  568.489 ms
+18  ae-7.r23.dllstx09.us.bb.gin.ntt.net (129.250.4.155)  691.313 ms  687.925 ms  691.717 ms
+19  ae-5.r11.dllstx09.us.bb.gin.ntt.net (129.250.5.24)  691.671 ms ae-6.r10.dllstx09.us.bb.gin.ntt.net (129.250.5.4)  691.683 ms ae-5.r11.dllstx09.us.bb.gin.ntt.net (129.250.5.24)  691.669 ms
+20  ae-0.a01.dllstx04.us.bb.gin.ntt.net (129.250.4.178)  691.681 ms  691.143 ms  690.008 ms
+21  ae-0.rackspace.dllstx04.us.bb.gin.ntt.net (129.250.201.222)  690.006 ms  688.846 ms  693.973 ms
+22  10.25.1.99 (10.25.1.99)  693.972 ms  688.802 ms *
+23  corec-dcpe3.dfw1.rackspace.net (148.62.41.97)  707.102 ms corec-dcpe4.dfw1.rackspace.net (148.62.41.103)  693.475 ms  693.471 ms
+24  cored-aggr180b-1.dfw3.rackspace.net (148.62.41.141)  694.610 ms cored-aggr180a-1.dfw3.rackspace.net (148.62.41.143)  695.584 ms corec-aggr180a-1.dfw3.rackspace.net (148.62.41.139)  690.471 ms
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+
+implement nslookup:
+info---
+//
+name server lookup
+nslookup is the name of a program that lets any computer user enter a host name
+ (for example, "marvel.com") and find out the corresponding IP address. 
+It will also do reverse name lookup and find the host name for an IP address you specify.
+//
+command:
+nslookup marvel.com
+
+output:
+Server:		192.168.31.1
+Address:	192.168.31.1#53
+
+Non-authoritative answer:
+Name:	marvel.com
+Address: 72.32.138.96
+
+
+
+
+
