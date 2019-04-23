@@ -1,0 +1,5329 @@
+D Y VPATI L
+Tflzi‘lllllill)|ll(‘)‘(}7\’ ”W 0‘ W M
+
+Department of Computer Engineering
+
+Lab Manual
+
+Third Year Semester-VI
+Subject: System Security Lab(SSL)
+
+D _Y .PATIL
+Tézi'l‘llz’l‘k’g‘Y DWaJ W W
+
+ 
+
+ 
+
+M
+
+To foster and permeate higher and quality education with value added engineering,
+technology programs, providing all facilities in terms of technology and platforms for all
+round development with societal awareness and nurture the youth with international
+competencies and exemplary level of employability even under highly competitive
+environment so that they are innovative adaptable and capable of handling problems faced
+by our country and world at large.
+
+ 
+
+Institute Vision, Mission & Quality Policy
+
+K Mission \
+
+The Institution is committed to mobilize the resources and equip itself with men and
+materials of excellence thereby ensuring that the Institution becomes pivotal center of
+service to Industry, academia, and society with the latest technology. RAIT engages
+different platforms such as technology enhancing Student Technical Societies, Cultural
+platforms, Sports excellence centers, Entrepreneurial Development Center and Societal
+Interaction Cell. To develop the college to become an autonomous Institution & deemed
+university at the earliest with facilities for advanced research and development programs
+on par with international standards. To invite international and reputed national
+Institutions and Universities to collaborate with our institution on the issues of common
+
+Qterest of teaching and learning sophistication.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quality Policy
+
+Knowledge is supreme.
+
+Our Quality Policy
+
+It is our earnest endeavour to produce high quality engineering professionals
+Who are innovative and inspiring, thought and action leaders, competent to
+solve problems faced by society, nation and world at large by striving
+towards very high standards in learning, teaching and training methodologies.
+
+Our Mnttn: "it is not of mmlitv. it is NOT RAIT!
+
+ 
+
+ 
+
+D Y PATIL
+9 rss‘msaﬂnr 9W 4 W W
+
+TECHNOLOGY
+
+ 
+
+Department Vision & Mission
+
+M
+
+T0 impart higher and quality education in computer science with value added
+engineering and technology programs to prepare technically sound, ethically strong
+engineers with social awareness. To extend the facilities, to meet the fast Changing
+requirements and nuture the youths with international competencies and exemplary
+level of employability and research under highly competitive environments.
+
+ 
+
+ 
+
+ 
+   
+   
+   
+  
+ 
+ 
+ 
+ 
+   
+
+Mission
+
+  
+
+To mobilize the resources and equip the institution with men and materials of
+excellence to provide knowledge and develop technologies in the thrust areas of
+computer science and Engineering.
+
+0 To provide the diverse platforms of sports, technical, co curricular and
+extraeunieular activities for the overall development of student with ethical
+attitude.
+
+0 To prepare the students to sustain the impact of computer education for social
+needs encompassing industry, educational institutions and public service.
+
+0 T0 collaborate with IITs, reputed universities and industries for the
+technical and overall uplifment of students for continuing learning and
+entrepreneurship.
+
+ 
+
+ 
+
+ 
+
+D Y PATIL
+$ :K‘yl’ll‘l‘l‘l‘i“: ”W“ W W
+
+TL('HNL)LO(EY
+Mu “mm.
+
+ 
+
+Departmental Program Educational
+Objectives (PEOs)
+
+1. Learn and Integrate
+To provide Computer Engineering students with a strong foundation in the mathematical,
+scientiﬁc and engineering fundamentals necessary to formulate, solve and analyze
+
+engineering problems and to prepare them for graduate studies.
+
+2. Think and Create
+To develop an ability to analyze the requirements of the software and hardware, understand
+the technical specifications, create a model, design, implement and verify a computing
+system to meet specified requirements while considering real-world constraints to solve
+
+real world problems.
+
+3. Broad Base
+To provide broad education necessary to understand the science of computer engineering
+
+and the impact of it in a global and social context.
+
+4. Techno-leader
+To provide exposure to emerging cutting edge technologies, adequate training &
+opponunities to work as teams on multidisciplinary projects with effective communication
+
+skills and leadership qualities.
+
+5. Practice citizenship
+To provide knowledge of professional and ethical responsibility and to contribute to society
+through active engagement with professional societies, schools, Civic organizations or other
+
+community activities.
+
+6. Clarify Purpose and Perspective
+To provide strong in—depth education through electives and to promote student awareness on
+
+the life-long learning to adapt to innovation and Change, and to be successful in their
+professional work or graduate studies.
+
+ 
+
+D Y PATH.
+$ :cs‘sm‘a‘u‘: 9W“ W W
+
+I'L('HNL)LOUY
+Mu mum.
+
+ 
+
+Departmental Program Outcomes (P05)
+
+P01: Engineering knowledge: Apply the knowledge of mathematics, science, engineering
+fundamentals, and an engineering specialization t0 the solution of complex engineering
+problems.
+
+P02: Problem analysis: Identify, formulate, review research literature, and analyze complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+
+P03: Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with appropriate
+consideration for the public health and safety, and the cultural, societal, and environmental
+considerations.
+
+P04: Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data, and
+synthesis of the information to provide valid conclusions.
+
+P05: Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modeling to complex engineering
+activities with an understanding of the limitations.
+
+P06: The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent responsibilities
+relevant to the professional engineering practice.
+
+P07: Environment and sustainability: Understand the impact of the professional
+engineering solutions in societal and environmental contexts, and demonstrate the knowledge
+of, and need for sustainable development.
+
+P08: Ethics: Apply ethical principles and commit to professional ethics and responsibilities
+and norms of the engineering practice.
+
+P09: Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+
+P10: Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and
+write effective reports and design documentation, make effective presentations, and give and
+receive Clear instructions.
+
+P011: Project management and ﬁnance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member and
+leader in a team, to manage projects and in multidisciplinary environments.
+
+P012: Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technological Change.
+
+ 
+
+D Y PATIL
+$ :u:‘.*‘;r:r.r1‘.: ”W 4 W W
+
+T[(:HNOLOGY
+
+ 
+
+Departmental Program Speciﬁc Outcomes
+(P805)
+
+P801: To build competencies towards problem solving with an ability to understand,
+identify, analyze and design the problem, implement and validate the solution including both
+hardware and software.
+
+PSOZ: To build appreciation and knowledge acquiring of current computer techniques with
+an ability to use skills and tools necessary for computing practice.
+
+PSOS: To be able to match the industry requirements in the area of computer science and
+engineering. T0 equip skills to adopt and imbibe new technologies.
+
+ 
+
+D Y PATH.
+$ :k‘:‘.";“1‘,‘i‘1‘.? 0W“ W W
+
+I'L('HNL)LOUY
+Mu mum.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Index
+Sr. No. Contents Page No.
+1. List Of Experiments 1
+2. Course Objective, Course Outcome & 2’3
+Experiment Plan
+3. CO-PO ,CO-PSO Mapping 4
+4. Study and Evaluation Scheme 5
+5. Experiment N0. 1 6
+6. Experiment N0. 2 11
+7. Experiment N0. 3 18
+8. Experiment N0. 4 22
+9. Experiment N0. 5 26
+10. Experiment N0. 6 36
+11. Experiment N0. 7 42
+12. Experiment N0. 8 46
+13. Experiment N0. 9 52
+14. Experiment N0. 10 56
+15. Experiment N0. 11 72
+16. Experiment N0. 12 83
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+%
+
+DX .1367.” 9W4 W W
+
+\
+I\\|Ht H m
+
+I'L('HNL)LOUY
+\w mum.
+
+ 
+
+List of Experiments
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sr. No. Experiments Name
+1 Design and Implementation of a product Cipher using Substitution and
+Transposition ciphers
+2 Implementation and analysis of RSA cryptosystem and Digital signature
+scheme using RSA/El Gamal
+3 Implementation of Diffie Hellman Key exchange algorithm
+4 For varying message sizes, test integrity of message using MD-S, SHA-l, and
+analyse the performance of the two protocols. Use crypt APIs
+Study the use of network reconnaissance tools like WHOIS, dig, traceroute,
+5 nslookup to gather information about networks and domain registrars.
+Study of packet sniffer tools : wireshark, :
+6 1. Download and install wireshark and capture icmp, tcp, and http packets in
+promiscuous mode.
+2. Explore how the packets can be traced based on different ﬁlters.
+Use wireshark t0
+7 1. Detect ARP spoofing using ARPWATCH
+2. Simulate DOS attack using Hping3
+8 Setting up personal Firewall using iptables
+9 Set up IPSEC under LINUX.
+10 Simulate buffer overﬂow attack using Ollydbg, Splint, Cppcheck etc
+11 Explore the GPG tool of Linux to implement email security
+12 Installation and study of password cracking tools
+
+ 
+
+(John the Ripper)
+
+ 
+
+ 
+
+ 
+
+9
+
+D.X..I’.’¥I” 9W4 W W
+
+l
+|\\llH ll m
+TL('llNL)LO(iY
+Muumml
+
+ 
+
+Course Objectives & Course Outcome
+
+Course Outcomes:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COl To be able to apply the knowledge of symmetric cryptography to implement simple
+ciphers.
+
+CO2 To be able to analyze and implement public key cryptosystem and Digital signature
+scheme like RSA and El Gamal.
+
+CO3 To analyze and evaluate performance of hashing algorithms.
+
+CO4 To explore the different network reconnaissance tools like sniffers, port scanners and
+other related tools to gather network related information.
+
+C05 To be able to set up firewalls and transport layer security using open source
+technologies.
+
+CO6 To be able to explore various attacks like buffer-overﬂow, and web-application
+attacks.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D Y PAT” Dmol W W
+ll£:‘lll‘.\‘l‘0‘llk()y(}x\'
+Experlment Plan
+Module Week Experiments Name Course Weightage
+N0. N0. Outcome
+Design and Implementation of a product
+1 W1 Cipher using Substitution and Transposition C01 10
+ciphers
+Implementation and analysis of RSA public C O 2
+2 W2 key cryptosystem and Digital signature 5
+scheme.
+3 W3 Implementation of Diffie Hellman Key C02 5
+exchange algorithm
+For varying message sizes, test integrity of
+message using MD-S, SHA-l, and analyse C03
+4 W4 10
+the performance of the two protocols. Use
+crypt APIs
+Study and use network reconnaissance tools
+like WHOIS, dig, traceroute, nslookup, C04
+5 W5 . . 2.5
+nmap to gather 1nf0rmat10n about networks
+and domain registrars.
+Study and install packet sniffer tool
+(Wireshark) to capture packets in C04
+6 W6 . . 2.5
+promiscuous mode based on different
+filters.
+7 W7 Detect ARP spoofing using ARPWATCH CO4
+. 2.5
+and ereshark.
+8 W8 Sirnulate DOS attack using Hping3 and CO4 25
+ereshark.
+. . . . C05
+9 W9 Setting up personal F1rewallus1ng 1ptables 5
+10 W10 Set up IPSEC under LINUX. C05 5
+11 W11 Simulate buffer overﬂow attack using C06 5
+Ollydbg, Splint, Cppcheck etc
+12 W1 2 Installation and study of password cracking C06 5
+tools (J ohn the Rlpper)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D Y PATIL
+Ixumu mm
+I\\llH H m
+
+I'L('HNL)LOUY
+~«vauuu
+
+DWMWW
+
+ 
+
+Mapping Course Outcomes (CO) —
+Program Outcomes (PO)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subject Course Outcomes Contribution to Program outcomes (PO)
+Weight
+2 3 4 S 6 7 8 9 10 11 12
+To be able to apply the knowledge of
+C01 symmetric cryptography to implement 2 2 1 2
+simple ciphers.
+To be able to analyze and implement
+public key cryptosystem and Digital
+C02 signature scheme like RSA and El 2 2 2 1 1 1 1
+Gamal.
+CO3 To analyze andlevaluate performance 3 2 2 1 1 1
+of hashlng algorlthms.
+PRAEICA To explore the different network
+80% reconnaissance tools like sniffers, port
+CO4 scanners and other related tools to 2 3 3 1 1
+gather network related information.
+To be able to set up firewalls and
+C05 transport layer security using open 2 2 3 1 1 1
+source technologies.
+To be able to explore various attacks
+CO6 like buffer-overﬂow, and web- 2 2 2 1
+application attacks.
+Mapping of Course outcomes With Program Speciﬁc outcomes:
+Course Outcomes Contribution to Program
+Specific outcomes
+PSOl PSO2 PSO3
+C01 To be able to apply the knowledge of symmetric cryptography to 3
+implement simple ciphers.
+To be able to analyze and implement public key cryptosystem and
+C02 Digital signature scheme like RSA and El Gamal. 3
+CO3 To analyze and evaluate performance of hashing algorithms. 3
+To explore the different network reconnaissance tools like sniffers,
+CO4 port scanners and other related tools to gather network related 2
+information.
+C05 To be able to set up firewalls and transport layer security using
+open source technologies.
+CO 6 To be able to explore various attacks like buffer-overﬂow, and
+web-application attacks.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$
+
+DY ‘I’ATIL
+
+: \nmm
+|\\llH H m
+
+l11('HNL)L()UY
+Mu mum.
+
+DWMWW
+
+ 
+
+Study and Evaluation Scheme
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Course
+
+Course Name Teaching Scheme Credits Assigned
+
+Code
+CSL602 System Security Theory Practical Tutorial Theory Practical Tutorial Total
+Lab -- 02 -- -- 01 —— 01
+Course Code Course Name Examination Scheme
+. Term Work Oral & practical Total
+CSL 602 System Security
+Lab 25 25 50
+
+Term Work: Laboratory work will be based on above syllabus with minimum 10
+experiments to be incorporated.
+Experiments ---------------------------------------------------------------------- (15) Marks
+Assignment ----------------------------------------------------------------------- (05) Marks
+Attendance (Theory + Practical) ----------------------------------------------- (05) Marks
+Total ------------------------------------------------------------------------------- (25) Marks
+
+Oral & practical examination will be based on the above and Cryptography and System
+Security (CSC604) syllabus.
+
+ 
+
+$ 13mm Dmdmm
+
+I\\|111‘|1U|
+TECHNOLOGY
+
+System Security Lab
+
+Experiment N0.: 1
+
+Design and Implementation of a product cipher
+
+using Substitution and Transposition ciphers
+
+ 
+
+|1\\1l111 H m
+H.CHNULOUY
+Mu mum.
+
+$ 913.41.” Dmol W W
+
+ 
+
+Experiment No. 1
+
+1. Aim: Design and Implementation of a product cipher using Substitution and
+Transposition ciphers
+2. Objectives:
+0 To understand the encryption and decryption fundamentals.
+0 To apply the concepts of the product cipher.
+0 To understand the confusion and diffusion properties of a block cipher.
+
+3. Outcomes: The learner will be able to
+
+0 Understand the principles and practices of cryptographic techniques
+
+4. Hardware/ Software Required: C/C++/JAVA
+
+5. Theory:
+Substitution cipher is a method of encryption by which units of plaintext are replaced with
+ciphertext according to a regular system; the "units" may be single letters (the most common),
+pairs of letters, triplets of letters, mixtures of the above, and so forth. The receiver deciphers
+the text by performing an inverse substitution.
+
+Transposition cipher is a method of encryption by which the positions held by units of
+plaintext (which are commonly characters or groups of characters) are shifted according to a
+regular system, so that the ciphertext constitutes a permutation of the plaintext. That is, the
+order of the units is changed.
+
+Substitution ciphers can be compared with Transposition ciphers. In a transposition cipher,
+the units of the plaintext are rearranged in a different and usually quite complex order, but the
+units themselves are left unchanged. By contrast, in a substitution cipher, the units of the
+plaintext are retained in the same sequence in the ciphertext, but the units themselves are
+altered.
+
+1. Caesar Cipher: In cryptography, a Caesar cipher, also known as a Caesar's cipher, the shift
+cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known
+encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is
+replaced by a letter some fixed number of positions down the alphabet. For example, with a
+shift of 3, A would be replaced by D, B would become E, and so on. The method is named
+after Julius Caesar, who used it to communicate with his generals.
+
+Example:
+
+ 
+
+1 ll
+|\\1|llK|1 (‘1
+T1('HNL)LOUY
+
+% D.?.I’AT.” Dmdmm
+
+ 
+
+The transformation can be represented by aligning two alphabets; the Cipher alphabet is the
+plain alphabet rotated left or right by some number of positions. For instance, here is a Caesar
+cipher using a left rotation of three places (the shift parameter, here 3, is used as the key):
+
+Plain: ABCDEFGHIJKLMNOPQRS TUVWXYZ
+
+Cipher: DEFGHIJKLMNOPQRSTUVWXYZABC
+
+When encrypting, a person looks up each letter of the message in the "plain" line and writes
+down the corresponding letter in the "cipher" line. Deciphering is done in reverse.
+
+Plaintext: the quick brown fox jumps over the lazy dog
+
+Ciphertext: WKH TXLFN EURZQ IRA MXPSV RYHU WKH ODCB GR]
+
+2. Columnar Transposition: In a columnar transposition, the message is written out in rows of
+a fixed length, and then read out again column by column, and the columns are chosen in
+some scrambled order. Both the width of the rows and the permutation of the columns are
+usually defined by a keyword. For example, the word ZEBRAS is of length 6 (so the rows are
+of length 6), and the permutation is defined by the alphabetical order of the letters in the
+keyword. In this case, the order would be "6 3 2 4 1 5".
+
+In a regular columnar transposition cipher, any spare spaces are filled with nulls; in an
+irregular columnar transposition cipher, the spaces are left blank. Finally, the message is read
+off in columns, in the order specified by the keyword. For example, suppose we use the
+keyword ZEBRAS and the message WE ARE DISCOVERED. FLEE AT ONCE. In a regular
+columnar transposition, we write this into the grid as:
+
+632415WEAREDISCOVEREDFLEEATONCEQKJEU
+The ciphertext is then read off as:
+
+EVLNE ACDTK ESEAQ ROFOJ DEECU WIREE
+
+ 
+
+|\\|H\ ltUl
+
+TLCHNOLOGY
+
+% DXE’AI” Dmdmm
+
+ 
+
+6. Procedure/ Program:
+
+1. Substitution Encryption-
+a. Accept plaintext, P from user
+b. Accept key, K from user.
+c. Generate ciphertext, C=(P+K)rnod 26
+d. Display plaintext, P and ciphertext, C.
+
+2. Transposition Encryption:
+
+a. Count how many letters are in your ciphertext, C (for example, 75) and factor
+that number (75 =5*5*3).
+
+b. Create all of the possible matrices to fit this plaintext (in our case, 3X25, 5X15,
+15x5, 25x3).
+
+c. Write the ciphertext, C row-wise into these matrices.
+d. Permute the columns.(shufﬂe the columns)
+e. Read the matrix in column-wise to get the new ciphertext, C1.
+f. Display plaintext C and ciphertext C1.
+3. Transposition Decryption:
+a. Write the ciphertext, C1 column-by-colurnn.
+b. Permute the columns.
+c. Read the matrix row-wise to recover text C.
+
+d. Display plaintext,C and ciphertext,C1
+
+4. Substitution decryption:
+a. Generate plaintext, P=(C-K)mod 26
+b. Display plaintext, P and ciphertext, C.
+
+7. Conclusion :
+
+A product cipher is a composite of two or more elementary ciphers with the goal of
+producing a cipher which is more secure that any of the individual components. In
+product cipher substitution and transposition are applied to create confusion and
+diffusion in the text message.
+
+ 
+
+|\\|1111|1 m
+TECHNOLOGY
+
+$ 13mm Dmdmm
+
+ 
+
+8. Viva Questions:
+
+0 What is product cipher?
+o What makes a product cipher secure?
+0 What is difference between the diffusion and confusion?
+
+9. References:
+
+1. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+2. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+3. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+4. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+5. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+$ 13mm Dmdmm
+
+I\\|111‘|1U|
+TECHNOLOGY
+
+System Security Lab
+
+Experiment N0.: 2
+
+Implementation and analysis of RSA public key
+
+cryptosystem and Digital signature scheme.
+
+ 
+
+1 ll
+|\\1|llK|1 (‘1
+T1('HNL)LOUY
+
+% D.?.I’AT.” Dmdmm
+
+ 
+
+Experiment No. 2
+
+1. Aim: Write a program to demonstrate strength of RSA.
+
+2. Objectives:
+0 To understand the concept of public key cryptosystem.
+0 To implement and analyze the RSA cryptosystem.
+0 To understand and implement RSA digital signature.
+
+3. Outcomes: The learner will be able to
+To be able to analyze and implement public key cryptosystem and Digital
+signature scheme like RSA and El Gamal.
+
+4. Hardware/ Software Required: C/C++/JAVA.
+
+5. Theory:
+
+RSA Cryptosystem
+
+This cryptosystem is one the initial system. It remains most employed cryptosystem even
+today. The system was invented by three scholars Ron Rivest, Adi Shamir, and Len Adleman
+and hence, it is termed as RSA cryptosystem.We will see two aspects of the RSA
+
+cryptosystem, firstly generation of key pair and secondly encryption-decryption algorithms.
+Generation of RSA Key Pair
+
+Each person or a party who desires to participate in communication using encryption needs to
+generate a pair of keys, namely public key and private key. The process followed in the
+generation of keys is described below -
+0 Generate the RSA modulus (n)
+0 Select two large primes, p and q.
+0 Calculate n=p*q. For strong unbreakable encryption, let n be a large number,
+typically a minimum of 512 bits.
+0 Find Derived Number (e)
+0 Number e must be greater than 1 and less than (p - 1)(q - 1).
+0 There must be no common factor for e and (p — 1)(q — 1) except for 1. In other
+
+words two numbers e and (p — 1)(q — 1) are coprime.
+
+ 
+
+l
+|\\|1H|10|
+T1('HNL)LO(EY
+MHWMH
+
+$ DY. .1351.” Dmol W W
+
+ 
+
+0 Form the public key
+0 The pair of numbers (n, e) form the RSA public key and is made public.
+0 Interestingly, though n is part of the public key, difﬁculty in factorizing a large
+prime number ensures that attacker cannot find in finite time the two primes (p
+& q) used to obtain n. This is strength of RSA.
+0 Generate the private key
+0 Private Key d is calculated from p, q, and e. For given n and e, there is unique
+number d.
+0 Number d is the inverse of e modulo (p - 1)(q — 1). This means that d is the
+number less than (p - 1)(q - 1) such that when multiplied by e, it is equal to 1
+modulo (p - 1)(q - 1).
+O This relationship is written mathematically as follows -
+ed= 1 mod (p —1)(q — 1)
+
+The Extended Euclidean Algorithm takes p, q, and e as input and gives d as output.
+
+Example
+
+An example of generating RSA Key pair is given below. (For ease of understanding, the
+primes p & q taken here are small values. Practically, these values are very high).
+0 Let two primes be p = 7 and q = 13. Thus, modulus n = pq = 7 X 13 = 91.
+0 Select e = 5, which is a valid choice since there is no number that is common factor of
+5 and (p —1)(q — 1) = 6 X 12 = 72, except for 1.
+0 The pair of numbers (n, e) = (91, 5) forms the public key and can be made available to
+anyone whom we wish to be able to send us encrypted messages.
+0 Input p = 7, q = 13, and e = 5 to the Extended Euclidean Algorithm. The output will
+be d = 29.
+0 Check that the (1 calculated is correct by computing -
+de=29><5=145=1mod72
+0 Hence, public key is (91, 5) and private keys is (91, 29).
+
+ 
+
+|\\|Hl|1 m
+
+TU'HNOLOGY
+MU “mm.
+
+% UKRAIJL Dmdmm
+
+ 
+
+Encryption and Decryption
+
+Once the key pair has been generated, the process of encryption and decryption are relatively
+
+straightforward and computationally easy.
+
+RSA Encryption
+
+0 Suppose the sender wish to send some text message to someone whose public key is
+(n, e).
+
+0 The sender then represents the plaintext as a series of numbers less than n.
+
+0 To encrypt the first plaintext P, which is a number modulo n. The encryption process
+is simple mathematical step as -
+
+C = P6 mod n
+
+0 In other words, the ciphertext C is equal to the plaintext P multiplied by itself e times
+and then reduced modulo n. This means that C is also a number less than n.
+
+0 Returning to our Key Generation example with plaintext P = 10, we get ciphertext C -
+
+C = 105 mod 91
+
+RSA Decryption
+
+0 The decryption process for RSA is also very straightforward. Suppose that the
+receiver of public-key pair (n, e) has received a ciphertext C.
+
+0 Receiver raises C to the power of his private key d. The result modulo n will be the
+plaintext P.
+
+Plaintext = C01 mod n
+
+0 Returning again to our numerical example, the ciphertext C = 82 would get decrypted
+
+to number 10 using private key 29 —
+Plaintext = 8229 mod 91 = 10
+
+ 
+
+:«
+|\\IHIH m
+
+D Y PATIL
+l\\11\\» \IHA
+l'1('HNL)L()UY
+
+ 
+
+DWMWW
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Key Pair Key Pair Generation
+Public key: n = 55, e = 3 Primes:p = 5, q :11
+Private key: n = 55, d :7 Modulus: n = pg :55
+Public exponent: e :3
+Private exponent: d = 3'1 mod 20 :7
+Message Encryption Decryption
+c = m3 modn m = c7 modn
+m m2 modn m3 modn c2 modn c3 modn c6 modn c7 modn
+0 0 0 0 0 0 0
+1 1 1 1 1 1 1
+2 4 8 9 17 14 2
+3 9 27 14 48 49 3
+4 16 9 26 14 31 4
+5 25 15 5 20 15 5
+6 36 51 16 46 26 6
+7 49 13 4 52 9 7
+8 9 17 14 18 49 8
+9 26 14 31 49 36 9
+
+ 
+
+RSA Digital Signature:
+
+A digital signature is a mathematical scheme for demonstrating the authenticity of a digital
+message or documents. A valid digital signature gives a recipient reason to believe that the
+message was created by a known sender, that the sender cannot deny having sent the message
+
+(authentication and non-repudiation), and that the message was not altered in transit.
+
+To sign: use a private signing algorithm
+
+To verify: use a public veriﬁcation algorithm
+
+Alice wants to sign message m. She computes the signature of m (let’s call it y) and sends the
+signed message (m,y) to Bob. Bob gets (m,y), runs the verification algorithm on it. The
+algorithm returns “true” iff y is Alice’s signature of m.
+
+The basic protocol:
+
+1. Alice encrypts the document with her private key.
+
+2. Alice sends the signed document to Bob.
+
+3. Bob decrypts the document with Alice’s public key.
+
+ 
+
+ 
+
+DYPAT” vmagmm
+
+|\\|Hl|1 m
+
+% I:\M)1\H\HH
+
+TU'HNOLOGY
+MU “mm.
+
+ 
+
+6. Procedure/ Program:
+
+1. Take choice as an input
+2. If choice=1
+
+a.
+b.
+c.
+
+Choose two large prime numbers P and Q.
+
+Calculate N = P x Q.
+
+Select the public key (i.e. the encryption key) E such that it is not a
+factor of (P-1) and (Q-l).
+
+Select the private key (i.e. the decryption key) E such that the
+following equation is true:
+
+(D x E)mod(P-1) ><(Q-1) = 1
+
+For encryption, calculate the ciphertext CT from the plain text PT as
+follows:
+
+CT = PIE mod N
+
+Send CT as the cipher text to the receiver.
+
+For decryption, calculate the plaintext PT from the ciphertext CT as
+follows:
+
+PT = CTD mod N.
+
+3. If choice=2
+
+a.
+
+wage?
+
+7. Conclusion:
+
+Alice chooses secret odd primes p,q and computes n=pq.
+
+Alice chooses eA with gcd(eA,(I)(n))=1.
+
+Alice computes d A = eA'1 mod CD(n).
+
+Alice’s signature is y = mdA mod n.
+
+The signed message is (m,y).
+
+Bob can verify the signature by calculating z = y‘1’a mod n. (The
+signature is valid iff m=z).
+
+RSA is a strong encryption algorithm. RSA implements a public-key cryptosystem
+that allows secure communications and “digital signatures”, and its security rests in
+part on the difﬁculty of factoring large numbers.
+
+8. Viva Questions:
+
+0 What is RSA cryptosystem?
+o What are the different attacks possible on RSA cryptosystem?
+
+ 
+
+I\V|lll‘|1U|
+TECHNOLOGY
+
+9 13mm Dmdmm
+
+ 
+
+9. References:
+
+1. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+2. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+3. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+4. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+5. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+9 BUM” Dmolmm
+.tz:‘.'.tz;:.;'z.y
+
+System Security Lab
+Experiment N 0.: 3
+
+Implementation of Diffie Hellman Key
+
+exchange algorithm
+
+ 
+
+|1\\|1HH m
+H.CHNULOUY
+Mu mum.
+
+$ DXI’M.” Dmol W W
+
+ 
+
+Experiment No. 3
+
+1. Aim: Write a program to implement Diffie-Hellrnan Algorithm.
+
+2. Objectives:
+0 To understand the principles of asymmetric key cryptography.
+0 To understand the Diffie-Hellrnan Key exchange algorithm.
+0 To understand the possible attacks on Difﬁe-Hellman.
+
+3. Outcomes: The learner will be able to
+Apply the cryptosystem to ensure privacy and integrity of information.
+
+4. Hardware/ Software Required: C/C++/JAVA.
+
+5. Theory:
+
+The Diffie-Hellman Algorithm
+
+Difﬁe—Hellrnan key exchange (D—H) is a specific method of securely exchanging
+cryptographic keys over a public channel and was one of the first public-key protocols as
+originally conceptualized by Ralph Merkle and named after Whitﬁeld Diffie and Martin
+Hellman. D—H is one of the earliest practical examples of public key exchange implemented
+within the field of cryptography. Traditionally, secure encrypted communication between two
+parties required that they first exchange keys by some secure physical channel, such as paper
+key lists transported by a trusted courier. The Diffie—Hellman key exchange method allows
+two parties that have no prior knowledge of each other to jointly establish a shared secret key
+over an insecure channel. This key can then be used to encrypt subsequent communications
+using a symmetric key cipher.
+
+The Difﬁe—Hellrnan key exchange algorithm solves the following dilemma. Alice and Bob
+want to share a secret key for use in a symmetric cipher, but their only means of
+communication is insecure. Every piece of information that they exchange is observed by
+their adversary Eve. How is it possible for Alice and Bob to share a key without making it
+available to Eve? At first glance it appears that Alice and Bob face an impossible task. It was
+a brilliant insight of Difﬁe and Hellman that the difficulty of the discrete logarithm problem
+for F1pprovides a possible solution.
+
+The first step is for Alice and Bob to agree on a large prime p and a nonzero integer g modulo
+p. Alice and Bob make the values of p and g public knowledge; for example, they might post
+
+ 
+
+19
+
+DY. .1351.” Dmd W W
+
+|\\|Ht|1 m
+TK'HNOLOGY
+
+Mu wumn
+
+ 
+
+the values on their web sites, so Eveknows them, too. For various reasons to be discussed
+later, it is best if they choose g such that its order in F1pis a large prime.
+
+The next step is for Alice to pick a secret integer a that she does not reveal to anyone, while at
+the same time Bob picks an integer b that he keeps secret. Bob and Alice use their secret
+integers to compute
+
+A E 9‘1 [mod p) and B E ga' {mod p}.
+M—Kf—J H—‘W—‘1
+AJicc computers thiﬁ Bob corrlputes 1.th
+
+They next exchange these computed values, Alice sends A to Bob and Bob sends B to Alice.
+Note that Eve gets to see the values of A and B, since they are sent over the insecure
+communication channel.
+
+Finally, Bob and Alice again use their secret integers to compute
+
+A1 E B‘L {mod p] and B' E A1 [1110(1p}.
+H—‘v—J \I—qva—I’
+Alice computes this Bub cmnputcs this
+
+The values that they compute, A0 and B0 respectively, are actually the same, since
+
+A’ E B” E [gbja E 9”” E {gajb E A” E B’ {mod p}.
+
+This common value is their exchanged key. The Difﬁe-Hellman key exchange algorithm is
+summarized in Table
+
+ 
+
+Public ParameterCreation
+
+A trusted party chooses and publishes a (large) primep
+andanintegerghavinglargeprimeorderinF*.
+p
+
+ 
+
+ 
+
+ 
+
+PrivateComputations
+Alice Bob
+Choose a secret integera. Choose a secret integerb.
+ComputeA E g“ (modp). ComputeB E gb (modp).
+
+ 
+
+ 
+
+Public Exchange ofValues
+Alice sends A to Bob
+
+ 
+
+ 
+
+ 
+
+ 
+
+AB Bob sends B toAlice
+Further PrivateComputations
+Alice I Bob
+Compute the number B“ (modp). Compute the number A17 (modp).
+
+ 
+
+ 
+
+The shared secret value isB“ E (gb)“ E gab E (gay7 E A17 (modp).
+Table I. Diﬁ‘ie-Hellman Key Exchange
+
+ 
+
+ 
+
+|\\llHl1 m
+T1('HNL)LO(EY
+wniwviuml
+
+$ DY. .1351.” Dmol W W
+
+ 
+
+6. Procedure/ Program:
+
+i. Firstly, Alice and Bob agree on two large prim numbers, n and g. These two
+integers need not be kept secret. Alice and Bob can use an insecure channel to
+agree on them.
+
+ii. Alice chooses another large random number X, and calculates A such that:
+
+A = gX mod n
+iii. Alice sends the number A to Bob.
+iV. Bob independently chooses another large random integer y and calculates B
+such that:
+B: gy mod n
+V. Bob sends the number B to Alice.
+Vi. A now computes the secret key K1 as follows:
+
+K1 = BX mod n
+Vii. B now computes the secret key K2 as follows:
+K2 = Ay mod n
+
+7. Conclusion:
+
+The Diffie-Hellrnan key exchange algorithm is used to make secure channel to share
+secret key between sender and receiver. But man in middle attack is possible on this
+algorithm as values of n and g are publically known.
+
+8. Viva Questions:
+
+0 Is there any particular reason to use Diffie-Hellrnan over RSA for key
+exchange?
+0 Explain the Diffie-Hellrnan shared key exchange mechanism?
+
+9. References:
+
+1. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+2. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+3. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+4. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+5. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+% 13.3mm Dmdmm
+
+|\\|H\|1U|
+TLCHNOLOGY
+
+System Security Lab
+
+Experiment N0.: 4
+
+For varying message sizes, test integrity of
+message using MD-S, SHA-l, and analyse the
+performance of the two protocols. Use crypt
+
+APIs
+
+ 
+
+l
+|\\llH|1 m
+
+$ D.X..I’.A..T.” Dmol W W
+
+T1('HNL)LO(EY
+Mu “mm.
+
+ 
+
+5.
+
+Experiment No. 4
+
+Aim: For varying message sizes, test integrity of message using MD-5, SHA-l, and
+analyse the performance of the two protocols. Use crypt APIs
+Objectives:
+
+0 To understand the applications of cryptographic hash functions.
+
+0 To distinguish between MD5 & SHA-l.
+
+0 To differentiate between hashing and encryption.
+
+Outcomes: The learner will be able to
+Apply security techniques and technologies to solve real-life security problems in
+practical systems.
+
+Hardware/ Software Required: C/C++/JAVA.
+
+Theory:
+
+MD5 (Message Digest algorithm 5) is a widely used cryptographic hash function with a 128
+bit hash value. An MD5 hash is typically expressed as a 32 digit hexadecimal number. MD5
+
+processes a variable length message into a fixed length output of 128 bits. The input message
+is broken up into chunks of 512 bit blocks (sixteen 32bit little endian integers) ; The message
+is padded so that its length is divisible by 512. The padding works as follows: first a single
+
+bit, 1, is appended to the end of the message. This is followed by as many zeros as are
+required to bring the length of the message up to 64 bits less than a multiple of 512. The
+
+remaining bits are filled up with a 64bit integer representing the length of the original
+
+message, in bits.
+
+ 
+
+A B C D
+
+Figure 1: One MD5 operation. MD5 consists of 64 of these operations, grouped in four
+rounds of 16 operations. F is a nonlinear function; one function is used in each round. M,-
+denotes a 32bit block of the message input, and K,- denotes a 32bit constant, different for each
+
+ 
+
+|1\\|1HH m
+H.CHNULOUY
+Mu mum.
+
+$ DXI’M.” Dmol W W
+
+ 
+
+operation.
+
+The main MD5 algorithm operates on a 128bit state, diVided into four 32bit words, denoted
+A, B, C and D. These are initialized to certain fixed constants. The main algorithm then
+operates on each 512bit message block in turn, each block modifying the state. The
+processing of a message block consists of four similar stages, termed rounds; each round is
+composed of 16 similar operations based on a nonlinear function F , modular addition, and left
+rotation.
+
+Figure 1 illustrates one operation within a round. There are four possible functions F ; a
+different one is used in each round:
+
+F(X,Y,Z) =(X AY)V(—1X AZ)
+
+G(X,Y,Z) =(X AZ)V(Y/\—.Z)
+
+I(X,Y,Z) =Y®(X VEZ)
+
+69 , A, V , —. denote the XOR, AND, OR and N OToperations respectively.
+6. Procedure/Algorithm:
+
+1. Append Padding Bits
+
+The message is "padded" (extended) so that its length (in bits) is congruent to 448, modulo
+512. That is, the message is extended so that it is just 64 bits shy of being a multiple of
+512 bits long. Padding is always performed, even if the length of the message is
+already congruent to 448, modulo 512. Padding is performed as follows: a single "1" bit
+is appended to the message, and then "0" bits are appended so that the length in bits of
+the padded message becomes congruent to 448, modulo 512. In all, at least one bit and
+at most 512 bits are appended.
+
+2. Append Length
+
+A 64 bit representation of b (the length of the message before the padding bits were
+added) is appended to the result of the previous step. In the unlikely event that b is
+greater than 2"64, then only the low order 64 bits of b are used. (These bits are
+appended as two 32bit words and appended loworder word first in accordance with
+the previous conventions.) At this point the resulting message (after padding with bits
+and with b) has a length that is an exact multiple of 512 bits. Equivalently, this
+message has a length that is an exact multiple of 16 (32 bit) words. Let M[0 N1]
+denote the words of the resulting message, where N is a multiple of 16.
+
+3. Initialize MD Buffer
+A fourword buffer (A,B,C,D) is used to compute the message digest. Here each of A,
+
+ 
+
+|\\|H\|1U|
+TLCHNOLOGY
+
+% 13.3mm Dmdmm
+
+ 
+
+B, C, D is a 32bit register. These registers are initialized to the following values in
+hexadecimal, loworder bytes first):
+
+4. Process Message in 16W0rd Blocks
+We first define four auxiliary functions that each take as input three 32bit words and
+produce as output one 32bit word.
+
+7. Conclusion:
+
+The main aim of message digest algorithm is to ensure integrity of message. The strength of
+MD5 algorithm lies in the chaining function, because of which integrity of message cannot be
+compromised
+
+8. Viva Questions:
+
+0 What is the MD5 algorithm? How it is works?
+0 What is SHAl algorithm?
+
+9. References:
+
+1. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+2. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+3. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+4. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+5. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+% Emma Dmdmm
+
+|\\IH\ It on
+Tl('llN()LO(iY
+
+System Security Lab
+
+Experiment N0.: 5
+
+Study and use network reconnaissance tools like
+WHOIS, dig, traceroute, nslookup, nmap to
+gather information about networks and domain
+
+registrars.
+
+ 
+
+l
+|\\|1H|10|
+T1('HNL)LO(EY
+MHWMH
+
+$ D.X..I’.A..T.” Dmol W W
+
+ 
+
+Experiment No. 5
+
+1. Aim: Study and use network reconnaissance tools like WHOIS, dig, traceroute, nslookup,
+nmap to gather information about networks and domain registrars.
+
+2. Objectives:
+0 To understand network information discovery.
+0 To study various basic network commands to gather network information.
+0 To understand passive attack technique.
+
+3. Outcomes:
+The learner will be able to Apply basic network command to gather basic
+network information
+
+4. Hardware/ Software Required: Unix/Linux
+5. Theory:
+
+1. WHOIS : WHOIS is the Linux utility for searching an object in a WHOIS database. The
+WHOIS database of a domain is the publicly displayed information about a domains
+ownership, billing, technical, administrative, and nameserver information. Running a
+WHOIS on your domain will look the domain up at the registrar for the domain
+information. All domains have WHOIS information. WHOIS database can be queried to
+
+obtain the following information Via
+WHOIS:
+
+0 Administrative contact details, including names, email addresses, and telephone
+numbers
+
+0 Mailing addresses for office locations relating to the target organization
+0 Details of authoritative name servers for each given domain
+
+Example: Querying Facebook.c0m
+
+ssc@ssc-OptiPleX-380:~$ whois facebook.com
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+
+with many different competing registrars. Go to http://www.internic.net
+
+for detailed information.
+
+Server Name: FACEBOOKCOM.BRETLANDTRUSTMERCHANDISINGDEPARTCOM
+
+ 
+
+|1\\|11111U!
+H.CHNULOUY
+Mu mum.
+
+$ DXI’AI‘L Dmol W W
+
+ 
+
+IP Address: 69.63.176.11
+
+Registrar: GOOGLE INC.
+
+Whois Server: whois.rrpproxy.net
+
+Referral URL: http://domains.googlecom
+
+Server Name:
+FACEBOOK.COM.DISABLE.YOUR.TIMELINE.NOW.WITH.THE.ORIGINAL.TIMELIN
+E-REMOVENET
+
+IP Address: 8.8.8.8
+
+Registrar: ENOM, INC.
+
+Whois Server: whois.enom.com
+
+Referral URL: http://www.enom.corn
+
+Server Name:
+FACEBOOK.COM.GET.ONE.MILLIONDOLLARS.AT.WWW.UNIMUNDI.COM
+IP Address: 209.126.190.70
+
+Registrar: PDR LTD. DfB/A PUBLICDOMAINREGISTRYCOM
+
+Whois Server: whois.PublicDomainRegistrycom
+
+Referral URL: http://www.PublicDomainRegistry.corn
+
+Server Name: FACEBOOK.COM.LOVED.BY.WWW.SHQIPHOSTCOM
+
+IP Address: 46.4.210.254
+
+Registrar: ONLINENIC, INC.
+
+Whois Server: whois.onlinenic.corn
+
+Referral URL: http://www.OnlineNIC.com
+
+Server Name: FACEBOOK.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
+IP Address: 203.36.226.2
+
+Registrar: INSTRA CORPORATION PTY, LTD.
+
+Whois Server: whois.instra.net
+
+Referral URL: http://www.instra.corn
+
+Server Name:
+FACEBOOK.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITYCOM
+IP Address: 69.41.185.229
+
+Registrar: TUCOWS DOMAINS INC.
+
+Whois Server: whois.tucows.com
+
+Referral URL: http://www.tucowsdomains.com
+
+Domain Name: FACEBOOKCOM
+
+Registrar: MARKMONITOR INC.
+
+Sponsoring Registrar IANA ID: 292
+
+Whois Server: whois.markmonitor.com
+
+Referral URL: http://www.rnarkmonitor.com
+
+Name Server: A.NS.FACEBOOK.COM
+
+Name Server: B.NS.FACEBOOK.COM
+
+Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Status:clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Status:clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Status:serverDeleteProhibited
+
+http ://www.icann. org/epp#s erverDeleteProhibited
+Status:serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+
+ 
+
+|1\\1l11111111
+H.CHNULOUY
+Mu mum.
+
+$ D.?.?ﬂ” Dmol W W
+
+ 
+
+Status:serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Updated Date: 28-sep-2012
+
+Creation Date: 29-mar-1997
+
+Expiration Date: 30-mar-2020
+
+>>> Last update of whois database: Fri, 17 Jul 2015 04:12: 12 GMT <<<
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and Registrars.
+For more information on Whois status codes, please Visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+Domain Name: facebook.com
+
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+
+Registrar WHOIS Server: whois.markmonitor.com
+
+Registrar URL: http://www.rnarkmonitor.com
+
+Updated Date: 2014-10-28T12:38:28-0700
+
+reation Date: 1997-03-28T21:00:00-0800
+
+Registrar Registration Expiration Date: 2020-03-29T21:00:00-0700
+
+Registrar: MarkMonitor, Inc.
+
+Registrar IANA ID: 292
+
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+
+Registrar Abuse Contact Phone: +1.2083895740
+
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited
+(https://www.icann.org/epp#clientTransferProhibited)
+
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registry Registrant ID:
+
+Registrant Name: Domain Administrator
+
+Registrant Organization: Facebook, Inc.
+
+Registrant Street: 1601 Willow Road,
+
+Registrant City: Menlo Park
+
+Registrant State/Province: CA
+
+Registrant Postal Code: 94025
+
+Registrant Country: US
+
+Registrant Phone: +1.6505434800
+
+Registrant Phone Ext:
+
+Registrant Fax: +1.6505434800
+
+Registrant Fax Ext:
+
+Registrant Email: domain@fb.com
+
+Registry Admin ID:
+
+Admin Name: Domain Administrator
+
+Admin Organization: Facebook, Inc.
+
+Admin Street: 1601 Willow Road,
+
+Admin City: Menlo Park
+
+Admin State/Province: CA
+
+Admin Postal Code: 94025
+
+Admin Country: US
+
+Admin Phone: +1.6505434800
+
+ 
+
+|1\\1l11111111
+H.CHNULOUY
+Mu mum.
+
+$ D.?.?ﬂ” Dmol W W
+
+ 
+
+Admin Phone Ext:
+
+Admin Fax: +1.6505434800
+Admin Fax Ext:
+
+Admin Email: domain@fb.com
+Registry Tech ID:
+
+Tech Name: Domain Administrator
+Tech Organization: Facebook, Inc.
+Tech Street: 1601 Willow Road,
+Tech City: Menlo Park
+
+Tech State/Province: CA
+
+Tech Postal Code: 94025
+
+Tech Country: US
+
+Tech Phone: +1.6505434800
+
+Tech Phone Ext:
+
+Tech Fax: +1.6505434800
+
+Tech Fax Ext:
+
+Tech Email: domain@fb.com
+Name Server: b.ns.facebook.com
+Name Server: a.ns.facebook.com
+DNSSEC: unsigned
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2015-07-16T21:08:30-0700 <<<
+
+The Data in MarkMonitor.com's WHOIS database is provided by MarkMonitor.com for
+
+information purposes, and to assist persons in obtaining information about or
+
+related to a domain name registration record. MarkMonitor.com does not guarantee
+
+its accuracy. By submitting a WHOIS query, you agree that you will use this Data
+
+only for lawful purposes and that, under no circumstances will you use this Data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations Via e-mail (spam); or
+
+(2) enable high volume, automated, electronic processes that apply to
+MarkMonitor.corn (or its systems).
+
+MarkMonitor.corn reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor is the Global Leader in Online Brand Protection.
+
+MarkMonitor Domain Management(TM)
+
+MarkMonitor Brand Protection(TM)
+
+MarkMonitor AntiPiracy(TM)
+
+MarkMonitor AntiFraud(TM)
+
+Professional and Managed Services
+
+Visit MarkMonitor at http://www.rnarkmonitor.com
+
+Contact us at +1.8007459229
+
+In Europe, at +44.02032062220
+
+ssc@ssc-OptiPleX-380:~$
+
+ 
+
+|\\|11\|1U|
+TLCHNOLOGY
+
+% DXRAIJL Dmdmm
+
+ 
+
+2. Dig - Dig is a networking tool that can query DNS servers for information. It can be very
+helpful for diagnosing problems with domain pointing and is a good way to verify that
+your configuration is working. The most basic way to use dig is to specify the domain we
+wish to query:
+
+Example:
+
+$ dig duckduckg0.c0m
+
+;<<>> DiG 9.8.1-P1 <<>> duckduckgo.com
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64399
+;; ﬂags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+
+;duckduckgo.com. IN A
+
+;; ANSWER SECTION:
+
+duckduckgo.com. 99 IN A 107.21.1.61
+
+duckduckgo.com. 99 IN A 184.72.106.253
+
+duckduckgo.com. 99 IN A 184.72.106.52
+
+duckduckgo.com. 99 IN A 184.72.115.86
+
+;; Query time: 33 msec
+
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+
+;; WHEN: Fri Aug 23 14:26:17 2013
+
+;; MSG SIZE rcvd: 96
+
+The lines above act as a header for the query performed. It is possible to run dig in batch
+mode,
+
+so proper labeling of the output is essential to allow for correct analysis.
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64399
+
+ 
+
+|\\|111|10|
+
+TU'HNOLOGY
+MU “mm.
+
+% D.X..IT.A.I}L Dmdmm
+
+ 
+
+;; ﬂags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+The next section gives us a technical summary of our query results. We can see that the query
+was successful, certain ﬂags were used, and that 4 "answers" were received.
+
+;; QUESTION SECTION:
+
+;duckduckgo.com. IN A
+
+;; ANSWER SECTION:
+
+duckduckgo.com. 99 IN A 107.21.1.61
+
+duckduckgo.com. 99 IN A 184.72.106.253
+
+duckduckgo.com. 99 IN A 184.72.106.52
+
+duckduckgo.com. 99 IN A 184.72.115.86
+
+The above section of the output contains the actual results we were looking for. It restates the
+query and then returns the matching DNS records for that domain name.
+
+Here, we can see that there are four "A" records for "duckduckgo.com". By default, "A"
+records
+
+are returned. This gives us the IP addresses that the domain name resolves to.
+
+The "99" is the TTL (time to live) before the DNS server rechecks the association between
+the
+
+domain name and the IP address. The "IN" means the class of the record is a standard internet
+class.
+
+;; Query time: 33 msec
+
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+
+;; WHEN: Fri Aug 23 14:26:17 2013
+
+;; MSG SIZE rcvd: 96
+
+These lines simply provide some statistics about the actual query results. The query time can
+be
+
+indicative of problems with the DNS servers.
+
+ 
+
+|1\\1l11111111
+H.CHNULOUY
+Mu mum.
+
+$ D.?.?ﬂ” Dmol W W
+
+ 
+
+3. Traceroute - traceroute prints the route that packets take to a network host. Traceroute
+utility uses the TTL field in the IP header to achieve its operation. For users who are new
+to TTL field, this field describes how much hops a particular packet will take while
+traveling on network. So, this effectively outlines the lifetime of the packet on network.
+This field is usually set to 32 or 64. Each time the packet is held on an intermediate
+router, it decreases the TTL value by 1. When a router finds the TTL value of 1 in a
+received packet then that packet is not forwarded but instead discarded. After discarding
+the packet, router sends an ICMP error message of —Time exceeded” back to the source
+from where packet generated. The ICMP packet that is sent back contains the IP address
+of the router. So now it can be easily understood that traceroute operates by sending
+packets with TTL value starting from 1 and then incrementing by one each time. Each
+time a router receives the packet, it checks the TTL field, if TTL ﬁeld is 1 then it discards
+the packet and sends the ICMP error packet containing its IP address and this is what
+traceroute requires. So traceroute incrementally fetches the IP of all the routers between
+the source and the destination.
+
+Example:
+
+$traceroute example.com
+
+traceroute to examplecom (64. 13. 192.208), 64 hops max, 40 byte packets
+1 72.10621 (7210.621) 1.000 ms 0.739 ms 0.702 ms
+
+2 101012481 (101012481) 0.683 ms 0.385 ms 0.315 ms
+
+3 10.104.65.161 (10.104.65.161) 0.791 ms 0.703 ms 0.686 ms
+410.104.65.161 (10.104.65.161)0.791ms 0.703 ms 0.686 ms
+
+5 10.0.1033 (10.0.1033) 2.652 ms 2.260 ms 5.353 ms
+
+6 acmkokeaig.gs01.gridserver.com (64.13.192.208) 3.384 ms 8.001 ms 2.439 ms
+
+4. Nslookup - The nslookup command is used to query internet name servers interactively
+for information. nslookup, which stands for "name server lookup", is a useful tool for
+ﬁnding out information about a named domain. By default, nslookup will translate a
+domain name to an IP address (or Vice versa). For instance, to find out what the IP address
+of microsoft.com is, you could run the command:
+
+ 
+
+DE. .1351.” Dmd W W
+
+|\\l111l10|
+T1('HNL)LO(EY
+Mu w. I
+
+.u
+
+ 
+
+Example:
+
+$nslookup microsoft.com
+Server: 8.8.8.8
+
+Address: 8.8.8.8#53
+Non-authoritative answer:
+Name:microsoft.com
+Address: 134.170.185.46
+Name: microsoft.com
+Address: 134.170.188.221
+
+Here, 8.8.8.8 is the address of our system's Domain Name Server. This is the server our
+system is configured to use to translate domain names into IP addresses. "#53" indicates that
+we are communicating with it on port 53, which is the standard port number domain name
+servers use to accept queries. Below this, we have our lookup information for microsoft.com.
+Our name server returned two entries, 134.170.185.46 and 134.170.188.221. This indicates
+that microsoft.com uses a round robin setup to distribute server load. When you
+accessmicrsoftcom, you may be directed to either of these servers and your packets will be
+routed to the correct destination. You can see that we have received a "Non-authoritative
+answer" to our query. An answer is "authoritative" only if our DNS has the complete zone file
+information for the domain in question. More often, our DNS will have a cache of
+information representing the last authoritative answer it received when it made a similar
+query, this information is passed on to you, but the server qualifies it as "non-authoritative":
+the information was recently received from an authoritative source, but the DNS server is not
+itself that authority.
+
+6. Conclusion:
+Various reconnaissance tools are studies and used to gather primary network
+information.
+
+7. Viva Questions:
+
+0 What is the use of whois command?
+0 What kind of information is gathered using traceroute command?
+0 What is the use of nslookup command?
+
+ 
+
+|\V|lll‘|1U|
+TECHNOLOGY
+
+9 13mm Dmdmm
+
+ 
+
+8. References:
+
+1. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+2. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+3. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+4. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+5. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+$ Dxmu Dmdmm
+
+|\\|11\‘|1U|
+TECHNOLOGY
+
+System Security Lab
+
+Experiment N0.: 6
+
+Study and install packet sniffer tool (Wireshark) to
+capture packets in promiscuous mode based on
+
+different ﬁlters.
+
+ 
+
+:«
+|\\l11111 m
+
+$ D.?.?ﬂ” Dmol W W
+
+l11('HNL)L()UY
+Mu mum.
+
+ 
+
+Experiment No. 6
+
+1. Aim: Study and install packet sniffer tool (Wireshark) to capture packets in
+promiscuous mode based on different filters.
+
+2. Objectives:
+
+0 Understand the need for traffic analysis.
+
+0 Understand the how packet snifﬁng is done using wireshark.
+
+0 Trace and understand various packets from dynamic traffic.
+3. Outcomes:
+
+The learner will be able to
+0 Sniff network packets and study insights of packets to get detail network information.
+
+4. Hardware/ Software Required: UniX/LinuXNVindows, wireshark
+5. Theory:
+
+Wireshark, a network analysis tool formerly known as Ethereal, captures packets in real time
+and display them in human-readable format. Wireshark includes ﬁlters, color-coding and
+other features that let you dig deep into network trafﬁc and inspect individual packets.
+
+Features of Wireshark :
+
+Available for UNIX and Windows.
+
+Capture live packet data from a network interface.
+
+Open files containing packet data captured with tcpdump/WinDump, Wireshark, and a
+number of other packet capture programs.
+
+Import packets from text files containing hex dumps of packet data.
+Display packets with very detailed protocol information.
+
+Export some or all packets in a number of capture file formats.
+Filter packets on many criteria.
+
+Search for packets on many criteria.
+
+Colorize packet display based on ﬁlters.
+
+Create various statistics.
+
+Capturing Packets
+
+After downloading and installing Wireshark, you can launch it and click the name of an
+
+interface under Interface List to start capturing packets on that interface. For example, if you
+want to capture traffic on the wireless network, click your wireless interface. You can
+configure advanced features by clicking Capture Options.
+
+ 
+
+DYP’mL Dmolmm
+T [1 2:11 11 1111161 {(1)1(11Y
+
+\A\l \yymlu
+
+ 
+
+Installation of Wireshark:
+
+sudo apt-get install Wireshark
+
+Terminal
+root@IT—412-14:/home[ar_pr_e
+Hmap danes 1 IF- arjdri- ’ .- up) Scanned in (3.41 (onij
+roatﬁiITefllZeldaih-Dme,’ <p<e# ,4er aptrget install wt ,hark.
+Reading pa: age lis Dane
+Building a:- enden<y tr
+
+Done
+wing extra pacL will be i 'talled:
+2 lib izldbl Ii Wireshark? ta Libwiresharkl libwiretapl
+
+till wir' harkrc-Dmmcn
+d packag-
+nmprmib‘si )wn r wiresharkrdr):
+The following HEN pa<kages will be installed:
+1ib<rar952 libsmizldbl libwiresharkidata libwtresharkl libwiretapl
+'Libwsutill wireshark. wiresharkrcummsn
+I) upgraded. S newly installed. :3 to remove and 32!) not upgraded.
+Need to get 12.5 MB of archives.
+After this operation, 49.6 MB of additional disk. space will be used.
+Do you want to conttn [‘(fnJ? y
+Getzl. httpcjftnvarchtv buntu.cr)mfubuntuf preciserupdatesjmain libc’aresz 1.336-
+lv7V571ubuntu0.l [37. L
+Get:2 http:}fin.ar<hiv ubuntu,cumfubuntu;r premisejuntverse libsmiZIdbl i386 I).L1
+.Sijsgzrab-ludl [319 La]
+httpcﬁin.archive.ubuntu,cumjubuntu/ precise/untverse Iibwiresharkedata 51
+7-1 [1 155 LB]
+http fin.archiveJJbuntu.cbmfubuntuf precisejun‘lverse Iivasuti'll ‘13
+
+ 
+
+After downloading and installing Wireshark, you can launch it and click the name of an
+interface under Interface List to start capturing packets on that interface. For example, if you
+want to capture traffic on the wireless network, click your wireless interface. You can
+
+configure advanced features by clicking Capture Options.
+
+Wireshark
+
+- The Wireshark Network Analyzer [Wireshark 1.6.7]
+8 ﬁ ﬁ
+
+FiltEI: Expression... C 63 '
+
+The World's Most Popular Network Protocol Analyzel
+Version 1.6.?
+
+——_E_
+
+5 Interface Lisl: . Open
+Live Ust of the capture interfaces Open a previously captured File
+(countsinwmmg packets)
+
+Op en Recent:
+Start capture on interface:
+
+El ethn g Sample Captures
+
+El Pseudo-device that captures on all interfaces
+
+Elo
+
+A rich assortment of exalee caDture Files on the wtki
+
+a Capture Optlons
+
+Start a :apture with detaued option;
+
+ 
+
+Ca -ture Hel-
+@ How to Capture
+
+0 Ready to load OI captute No Packets Profile: Default
+
+As soon as you click the interface‘s name, you‘ll see the packets start to appear in
+
+real time. Wireshark captures each packet sent to or from your system. If you‘re capturing on
+
+ 
+
+DY PATH.
+
+I{\MR\D \IHK
+INHHUH U1
+
+TECHNOLOGY
+
+um. mm“.
+
+DWMWW
+
+ 
+
+a wireless interface and have promiscuous
+
+see other the other packets on the network
+
+  
+   
+
+    
+     
+ 
+
+Wireshark
+
+5'3 1:
+
+Capturing from etho
+
+@iﬂﬁ
+
+  
+
+[Wireshark 1.6.1]
+
+mode enabled in your capture options, you‘ll also
+
+ 
+
+  
+
+ 
+
+Filtet: 1
+
+   
+
+ 
+
+ 
+
+   
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+    
+     
+    
+ 
+  
+
+Nn. Time SOUKE
+5753 14.237543 132.153.3.1
+5763 14.211395 132.163.12.13
+5773 14.214253 192.163.3.1
+5771 14.214411 132.163.3.1
+5772 14.223638 192.163.3.1
+5773 14.225157 192.163.B.31
+5774 14.226347 192.163.3.1
+5775 14.226193 132.163.3.1
+5776 14.233963 192.163.3.1
+5777 14.235399 132.163.3.1
+5773 14.263699 192.163.3.1
+5779 14.263737 132.163.3.1
+
+Frame 1:
+Ethernet II, Src:
+Internet Protocol Version 4, Src:
+
+93
+ea
+74
+
+348 bytes on wire (7584 bits). 348 bytes captured (7584 bits}
+Pnrtwell_47:4b:d4 (33:93:'fb:47:4b:d4).
+
+> User Datagram Protocol Src Po 1: 43948 (43943}, 351 Port:
+WTNFD: datgnHT- HJ- 14 Tilllk'l3: 43: HR timernnk'WST"
+13333 1136712523de3313 4bd438334533 .g.
+
+a5 11] 44 4G 33 4G 11 9a aa
+37' ab ac 32 32 33 92 37 2d
+65 3d 32 3G 31 37 2d 33 32
+
+O etho: <live capturein progress>File: Packets: 5780 Displayed: 5780Marke Profile: Default
+
+ 
+
+1:; Q 4 3 3: [I‘E'
+Expression... (.E‘E' L.;--.;_
+
+Destinatinn Protoml Length Info
+131153.31 sysLng 551 DAEMDNJIIFD: a
+255.255.255.255 STUN 63 Ehanne'LData TU
+192.163.3.7 Syslng 333 DAEMDNJNFO: d
+192.163.3.7 Syslug 651 DAEMONJNFO: d
+192.163.3.7 SySLDg 352 DAEMONJNFO: d
+239.255.255.256 SSDP 215 M-SEARCH * H'IT
+192.163.3.7 syslog 913 DAEMONJNFO: d
+192.163.3.7 Syslng 652 DAEMDNJHFD: d
+192.163.3.7 syslog 357 DAEMONJNFO: d
+192.163.3 7 Syslng 392 DAEMDNJHFD: d
+192.163.3.7 syslog 651 DAEMONJNFO: d
+192.163.3 7 Syslng 334 DAEMDNJHFD: I
+
+351:: Dell_2ﬂ:df:b3 (d3:67:e5:23:df
+
+192.163.3.1(192. 153.3.1}. Dst: 192.153.9J' (191158.97)
+syslng (514}
+
+devir
+
+c0 a8 33 31
+3c 33 33 3e
+20 31 34 23
+
+c0 a8
+64 61
+74 69
+
+ 
+
+te
+
+ 
+
+ 
+
+ 
+    
+
+Click the stop capture button near the top
+capturin traffic.
+
+Wireshark
+etho [\Nireshark1.6.7]
+
+@Iﬂ
+
+ 
+
+left corner of the window when you want to stop
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ﬁr; Q ’8. 3 3 'II'E' -
+v
+E Filtet:| Expression... (.EE'
+No. Time Snurze Destination Pmtmnl Length Info
+ﬂ 1214 5.325523 DeLL_23:33:93 Broadcast ARP 53 wno nas 132 1t)
+1275 6.335141 feEﬂ: :f84a:5533:1365:i1132: :1 2 DHEPVE 153 Sulicit XIII: B
+1275 6.344334 192.158.17.5 192.158.255.255 NBNS 92 Name query MB
+1277 6.347714 132.163.3.1 192.163.3.7 Sys'Lng B27 DAEMDIIJHFO: d
+g 1273 6.347933 132.163 3.1 192.163.3.7 Syslug 327 DAEMDNJNFG: d
+1279 6.343392 192.163 3.1 192.163.3.7 Syslng 326 DAEMDNJNFG: d
+1233 6.343279 132.163 3.1 192.163.3.7 Syslug 326 DAEMDNJNFG: d
+[ E! 1231 6.343443 192.163.3.1 192.163.3.7 Syslng 651 DAEMDNJNFG: d
+7 1232 6.355551 132.163 3.1 192.163.3.7 Syslng 332 DAEMDIIJHFG: d
+1233 6.361333 192.163 3.1 192.163.3.7 Syslng 356 DAEHONJNFO: d
+1234 6.361523 132.163 3.1 192.163.E.7 Syslug 356 DAEMDIIJHFD: d
+1235 6.379233 132.163 3.1 192.163.3.7 Syslug 335 DAEMDNJNFG: I
+E 1236 6.433335 192.163.3.1 192.163.3.7 Syslng 334 DAEMDNJNFG: I
+b Frame 1: 853 bytes on wire (6824 bits}, 853 bytes captured (6824 bits}
+r Ethernet II. Src: Portwelli47:4b:d4 (33:Sﬂ:fb:47:4b:d4). Dst: 3511723:df:b3 {d3:b’7:e§:23:df
+i 3 Internet Prutucal Version 4,Src:192.168. 9.1 (192.168.31}, Dst: 192.168.0 7 (192.168.11.73
+I- IJser Datagram Protocol. Src Port: 43948 (43943}, Dst Part: syslng {514)
+LWINFD:daTgJH17-FD-14 Tims=13- 57- 57 time7nns="I§T" devir
+ﬂ @333 (13 67 55 23 df [13 33 93 fl] 47' 41] d4 33 33 45 33 .g. .. .GK.. I
+l @313 @3 47 9E 38 43 33 43 11 10 c5 c@ as 33 31 c@ as .G..@. ........
+k @323 33 37 ab ac 32 32 33 33 c0 99 3c 33 33 3e 64 E11 . .3 .<3@>da
+@333 74 65 30 32 33 31 37' 2d 33 32 2d 31 34 23 te— 2317* 32 14 ti
+
+0 File: "ftmp/wireshark eth0 20170..
+
+Packets: 1286 Displayed:1286Ma...
+
+74 69
+
+Profile: Default
+
+Wireshark uses colors to help you identify the types of traffic at a glance. By default, green
+is TCP traffic, dark blue is DNS trafﬁc, light blue is UDP traffic, and black identifies TCP
+packets with problems — for example, they could have been delivered out-of—order.
+
+ 
+
+WﬂﬂL ZMmm4&mm&mmo
+
+waIIIIIIr III
+TECHNOLOGY
+
+mm «mum
+
+ 
+
+Wireshark
+
+  
+   
+
+é etho [\«Vireshark1.6.7]
+ﬁﬂﬁgﬂﬁﬂxegq 444E@
+
+Filtenl Expression... CLea' A3213
+
+      
+   
+   
+    
+    
+   
+  
+  
+   
+  
+  
+  
+
+ 
+
+ 
+
+No. Time Sourte Destination Protoml Length Info
+
+ 
+
+1252 6.253257 192.163.3.1 192.163.3.7 Syslng 327 DAEMDNJNFO: d
+1253 6.253417 132.163.3.1 192.163.3.7 Syslng 651 DAEMDIIJNFO: d
+1254 6.259535 192.163.3.1 192.163.3.7 5315139 649 DAEMONJNFO: d
+1255 6.263216 192.163.3.1 192.163.3.7 Syslng 356 DAEMDNJNFO: d
+1256 6.263224 192.163.15.6 239.255.255.253 SSDP 215 M’SEARCH * HT
+1257 6.269932 169.254.243.73 169.254.255.255 NBNS 92 Name query N3
+1253 6.273213 192. 163.3.123 192.163.255.255 BROWSER 243 Browser Electi
+1259 6.273332 192.163.3.1 192.163.3.7 Syslug 793 DAEMDNJNFO: d
+1263 6.271373 169.254.243.73 169.254. .255 NBNS 92 Name query NE
+1261 6.272254 132.163.3.1 192.163.3.7 Syslng 327 DAEMDIIJNFO: d
+1262 6.272446 192.163.3.1 192.163.3.7 5315139 327 DAEMONJNFO: d
+6.272632 192.163.3.1 192.163.3.7 Syslng 793 DAEMDNJNFO: j
+- '==-3192 163 3 1 192 163 3 7 Svslng 336 DAEMDIIJNFO:
+
+   
+
+ 
+
+b Frame 1: 853 bytes on wire (6824 hits}, 853 bytes captured (6824 bits)
+
+v Ethernet II. Src: Portwelli47:4b:d4 (aa:99:fb:47:4b:d4}. Dst: Delliza:df:b3 {da:57:a5:23:df
+I Internet Prntncnl Version 4, Src: 192.158.8 1 (192.168.8 1}, Dst: 192.158.8 7 (192.168.8 7)
+> User Datagram Protocol. Src Port: 43948 (43948), Dst Part: syslcg (514)
+WTNFD: daTe=7317732714 1ime=13:57:57 timeynng'TST" deuic
+d3 67 ES 23 df I13 33 93 ‘fh 47 4b d4 33 33 45 33 .g. .GK...E.
+
+33 47 93 38 43 33 43 11 16 c5 c3 a8 33 31 c3 63
+08 37 ab ac 82 32 33 33 c3 99 3c 33 33 3e 64 61
+3333 74 65 33 32 3e 31 37 2d 33 32 2d 31 34 20 74 69 te=2817- 32-14 ti
+
+0 File: "/tmp/wiresharkieth0720170... Packets: 1256 Displayed: 1286Ma... Praﬁle: Default
+
+m—
+
+ 
+
+Filtering Packets
+
+If you‘re trying to inspect something specific, such as the traffic a program sends when
+phoning home, it helps to Close down all other applications using the network so you can
+narrow down the traffic. Still, you‘ll likely have a large amount of packets to sift through.
+That‘s where Wireshark‘s filters come in.
+
+The most basic way to apply a filter is by typing it into the filter box at the top of the window
+and clicking Apply (or pressing Enter). For example, type —dns|| and you‘ll see only DNS
+packets. When you start typing, Wireshark will help you autocornplete your ﬁlter.
+
+ 
+
+9.16.1341.” Dmd W W
+
+INHIIUIE m
+TECHNOLOGY
+
+mm «mum
+
+ 
+
+Wireshark
+
+   
+
+etho [Wireshark 1.6.7]
+
+ﬁriiﬁiuﬁﬂxe‘gq awu—ngl .
+
+  
+ 
+
+     
+  
+
+ 
+
+Filtet: ldns v I Expression... Cleat A3315;
+
+   
+
+ 
+
+Time Source Destination Protoml Length Info
+
+           
+  
+
+Standard
+
+. Standard
+. . Standard : '
+.941868 . . . 192. . . Standard
+.944465 192. Standard
+241 1.251589 192.158. .144 192.168.B.1 DNS B3 Standard query
+
+      
+   
+   
+  
+ 
+   
+  
+  
+   
+ 
+
+ 
+
+ 
+
+244 1.253725 192.168.B.1 192.168.4.144 DNS 135 Standard query
+
+271 1.429199 feBB: :2532:2453:7B9B:1‘f‘f92: :1:3 LLMNR 91 Standard query
+
+272 1.429325 191158.115 2243.321} LLMNR 2'1 Standard query
+
+7141 411nm 1a) 153 11 9 774 n n 7%: 11mm 71 Standard uuery
+Frame 18: 118 bytes on wire {944 bits}, 118 b ‘ ' red (944 bits}
+
+Ethernet II. Src: DeH_EE:e2:5a {55:25:64:Ea:e2:6a). Dst: IPv4mcast_aa:EJEJ:‘fb (a1:aa:5e:aa:a
+Internet Protocol Version 4, Src: 191158.194 (192.168.18.41. Dst: 224.9.9251 1224.91.25
+User Datagrarn Prntncnl. Src Port: rndns (5353), Dst Port: rndns {5353}
+
+p 11 main Mama I: m+nm ﬂmmrd
+
+@699 01 06 5e 30 00 fl: GB 25 64 93 e2 66 GE 30 45 66 .."....%d..'...
+@818 @Q 68 @2 E? 48 88 ff 11 CC f5 CG as Ga 84 ea 88 .h..@... .
+@828 08 fl] 14 e9 14 89 BB 54 a9 83 08 88 88 BB 88 @3 ..... .T ........
+68 GIG BB EIEI 88 GB Eb 44 69 73 6b 53 74 51 74 69 ....... D iSKSta‘ti
+
+O File:"/tmp/wireshark_eth0_201?0... Packets:1256Di;played:3OMark... Profile:Default
+-—1 .
+
+ 
+
+6. Conclusion:
+
+Wireshark installation and network traffic analysis using packet sniffing is done.
+Detailed information about packets are explored by applying filters.
+
+7. Viva Questions:
+
+0 What kind of information is gathered from packets?
+
+8. References:
+
+1. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+2. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+3. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+4. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+5. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+9 Dmdmm
+réZﬁ'ﬁN‘EJid'éw
+
+System Security Lab
+Experiment N0.: 7
+
+Detect ARP spooﬁng using
+ARPWATCH and Wireshark.
+
+ 
+
+tutu
+|\\|Hl‘|t m
+
+$ DY 1.141.” vm4mm
+
+T[(:HNOLOGY
+
+ 
+
+Experiment No. 7
+
+. Aim: Detect ARP spoofing using ARPWATCH and Wireshark.
+
+2. Objectives:
+
+i. Understand ARP spoofing.
+ii. Understand ARPWATCH and use it to detect ARP spoofing.
+
+. Outcomes: The learner will be able to
+
+0 Understand ARP spoofing and its detection using Wireshark and other tools.
+. Hardware / Software Required: Unix/Linux, ARPWATCH, Wireshark
+
+. Theory:
+
+Arpwatch is an open source computer software program that helps you to
+monitor Ethernet traffic activity (like Changing IP and MAC Addresses) on your
+network and maintains a database of ethernet/ip address pairings. It produces a log of
+noticed pairing of IP and MAC addresses information along with a timestamps, so you
+can carefully watch when the pairing activity appeared on the network. It also has the
+option to send reports Via email to an network administrator when a pairing added or
+Changed.
+
+This tool is especially useful for Network administrators to keep a watch
+on ARP activity to detect ARP spoofing or unexpected IP/MAC addresses
+modifications.
+
+Installing Arpwatch in Linux
+
+To watch a specific interface, type the following command with -i and deVice name.
+# arpwatch -i eth0
+
+So, whenever a new MAC is plugged or a particular IP is Changing corresponding to
+MAC address on the network, you will notice syslog entries at Ivar/log/syslog or
+Ivar/log/message ﬁle.
+
+ 
+
+DM’K‘I.” Dmd W W
+
+|\HlH|tkH
+Tl('llN()LO(iY
+
+Mu “Wm
+
+ 
+
+acpce@lT—412—‘l4: ~
+
+acpce@ITe41271 $ sudo apteget install arpwatch
+[sudo] password f r acpce:
+
+Reading package lists... Done
+
+Building dependency t
+
+Reading State information... Done
+
+The following NEH packages will be installed:k
+
+Need tn) get 183 k )f archives.
+After this operati- , 545 kB of additional disk space will be used.
+Get21 http:ffin.archive.ubuntu.comfubuntuf preciseeupdatesfuniverse arpwatch i3:
+
+6 2.1a1571.1+5queeze1build0.12.04.1 [183 kB]
+
+Fetched 183 k in 15 (114 ka5)
+
+Selecting previously unselected package arpwatch.
+
+(Reading database .. 15529? files and directories currently installed.)
+Unpacking arpwatch ( rom ...farpwatchiz.1315-1.1+squeeze1build0.12.04.17i385 de-
+
+ing triggers for ureadahead ...
+Proces ing triggers for man-db ...
+
+1E!
+-iéii
+arpwatch
+0 pgraded, 1 newly installed, 0 to remove and 320 not upgraded.
+
+   
+
+ 
+
+4..
+
+acpce@lT—412—14: ~
+
+Reading state information... Done
+The following HEN packages will be installed:
+
+arpwatch
+0 upgraded, 1 newly installed, 0 to remove and 320 not upgraded.
+Need to get 183 kB of archives.
+After this operation, 546 kB of additional disk space will be used.
+Get:1 http:ffin.archive.ubuntu.comfubuntuf precise—updatesfuniverse arpwatch 135
+5 2.1a15—1.1+squeeze1buildo.12.04.1 [133 kB]
+Fetched 183 kE in 15 {114 kB/s)
+Selecting previously unselected package arpwatch.
+{Reading database ... 16529? files and directories currently installed.)
+Unpacking arpwatch {from ...[arpwatch_2.1als—1.1+squeeze1build0.12.04. _i386.deb
+) ...
+Processing triggers for ureadahead ...
+Processing triggers for man—db
+Setting up arpwatch {2.1alS—1.1+sq eezelbuild0.12.04.1) ...
+Starting EthernethDDI station monitor daemon: {chown arpwatch fvarjlibjarpwatch
+farp.dat) arpwatch.
+
+arpwatch —i eth0
+
+? 1192.1 _
+acpce@IT—412—14 --
+
+ 
+
+Conclusion:
+
+ARP spooﬁng is common attack launched in the network. It can be detected using
+ARPWATCH and some other network monitoring tools.
+
+Viva Questions:
+
+What is ARP spoofing ?
+How to used ARP spoofing in Linux?
+
+ 
+
+I\V|lll‘|l m
+TECHNOLOGY
+
+9 13mm DWJWW
+
+ 
+
+References:
+
+William Stallings, “Cryptography and Network Security: Principles and Practice”, Pearson
+education, Fifth edition.
+
+Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second Edition.
+Behrouz A F orouzan, Debdeep Mukhopadhyay, ”Cryptography and Network Security ”, Tata
+McGraw Hill, Second edition
+
+Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+9 DUN” Dmolmm
+123212152”
+
+System Security Lab
+Experiment N0.: 8
+
+Simulate DOS attack using Hping3 and
+Wireshark.
+
+ 
+
+|:\\|Hl H m
+l'l('HNL)L()UY
+Mu mum.
+
+$ DXI’AI‘L Dmol W W
+
+ 
+
+Experiment No. 8
+
+1. Aim: Simulate DOS attack using Hping3 and Wireshark.
+2. Objectives:
+0 Understand the concept of DOS attacks.
+0 Launch DOS attack using Hping3 and observe it using wireshark.
+
+3. Outcomes: The learner will be able to
+Analyze DOS attack and its effect on the network using Hping3 and wireshark.
+
+practical systems.
+
+4. Hardware/ Software Required: UniX/Linux, Hping3, wireshark
+5. Theory:
+
+Denial-of—serVice (DoS) attack is an attempt to make a machine or network resource
+unavailable to its intended users, such as to temporarily or indefinitely interrupt or suspend
+serVices. A distributed denial-of—serVice (DDoS) is where the attack source is more than one,
+often thousands of, unique IP addresses. It is analogous to a group of people crowding the
+entry door or gate to a shop or business, and not letting legitimate parties enter into the shop
+or business, disrupting normal operations.
+
+A DoS attack tries to make a web resource unavailable to its users by ﬂooding the target URL
+with more requests than the server can handle. That means that during the attack period,
+regular traffic on the website will be either slowed down or completely interrupted.
+
+A Distributed Denial of Service (DDoS) attack is a DoS attack that comes from more than
+one source at the same time. A DDoS attack is typically generated using thousands
+(potentially hundreds of thousands) of unsuspecting zombie machines. The machines used in
+such attacks are collectively known as “botnets” and will have previously been infected with
+malicious software, so they can be remotely controlled by the attacker. According to research,
+tens of millions of computers are likely to be infected with botnet programs worldwide.
+
+Cybercriminals use DoS attacks to extort money from companies that rely on their websites
+being accessible. But there have also been examples of legitimate businesses having paid
+underground elements of the Internet to help them cripple rival websites. In addition,
+cybercriminals combine DoS attacks and phishing to target online bank customers. They use
+a DoS attack to take down the bank's website and then send out phishing e-mails to direct
+customers to a fake emergency site instead.
+
+ 
+
+DM’K‘I.” Dmd W W
+
+TLCHNOLOGY
+
+ 
+
+Installation Steps:
+
+0 Install Hping3 and wireshark
+0 Flood the Victim with TCP/ICMP/UDP packet using Hping3 (-- ﬂood option)
+0 Observe the Dos attack and DDos attack using Wireshark
+
+Output
+
+4..
+
+sl:udenl:@project-Optiplex-BISD: ~
+len=45 ip=192.168.0.220 ttl=ﬁ4 DF id=59844 Sportzﬂ flags=RA seq=259 winzo rtt=4.
+4 ms
+Ikc
+——— 192.168.0.220 hping statistic ———
+260 packets transmitted, 250 packets received, 0% packet loss
+round—trip minfavgfmax = 0.2f2.6f4.4 m5
+student@pr0ject-DptiPlex-350:~$ ifconfig
+ethl Link encap:Ethernet HHaddr 00:25:64'92:fb:82
+inet addr:192.168.0.211 Bcast:192.' 8.255.255 Mask:255.255.0.0
+inetﬁ addr: feﬁo::225:ﬁ4ff:fe92:fb82fﬁ4 Scope‘Link
+UP BROADCAST RUNNING MULTICAST MT '500 Metri :1
+
+RX packets:58352 errors:0 dropped overruns:0 frame:0
+TX packet521612 errors:0 dropped: overruns:0 carrier20
+collisions:0 txqueuelen:1000
+
+RX bytes 02422 (5.0 MB} TX byte5:115578 {115.5 KB}
+
+Interrupt.1ﬁ
+
+Link encap:Local Loopback
+
+inet addr:12?.0.0.1 Mask:255.0.0.0
+
+inetﬁ addr: 2:1f128 5cop ost
+
+UP LDDPBACK RUNNING MTU:05535 Metric:1
+
+RX packets:245 errors:0 dropped:0 overruns:0 frame:0
+TX packets:245 errors:0 dropped:0 overruns:0 carrier:0
+collision520 txqueuelen:0
+
+ 
+
+ 
+
+DY PATIL
+
+I:\M>:\n \mr
+|\\llH ll 01
+
+Tl('llNOLOUY
+M m
+
+sl:udent@project-Opl:iPlex—360: ~
+
+ip=192.163.0.220 ttl=64 DF id=59858 Sport=0 flags=RA
+ip=192.168.0.220 ttl=64 DF id=59859 Sport=0 flags=RA
+ip=192.163-0.220 ttl=64 DF id=59360 Sport=0 flagS=RA
+ip=192.163.0.220 ttl=64 DF id=59861 Sport=0 flags=RA
+ip=192.168.0.220 ttl=64 DF id=59862 Sport=0 flags=RA
+ip=192.163-0.220 ttl=64 DF id=59363 Sport=0 flagS=RA
+ip=192.163.0.220 ttl=64 DF id=59864 Sport=0 flags=RA
+ip=192.168.0.220 ttl=64 DF id=59865 Sport=0 flags=RA
+ip=192.163-0.220 ttl=64 DF id=59866 Sport=0 flagS=RA
+ip=192.163.0.220 ttl=64 DF id=5986? Sport=0 flags=RA
+
+ip=192.163.0.220 ttl=64 DF 10:59868 Sport=0 flagS=RA
+
+student@acpr.e-OptiPlex-BBD: -
+
+.153.0.220 ttl=54 DF id=56651 sport=0 flags=RA seq=664 win=0 rtt=1.
+.168.0.220 ttl=64 DF id=56652 Sport=0 flags=RA seq=665 win=0 rttzl.
+
+len=46 ip=192.168.0.220 ttl=64 DF id=56653 Sport=0 flags=RA seq=666 win=0 rttzl.
+1 m5
+A[[2;3~len=46 ip=192.168.0.220 ttl=64 DF id=56654 Sport=0 flags=RA seq=667 win=0
+rtt=4.4 m5
+
+len=46 ip=192.168.0.220 ttl=64 DF id=56655 Sport=0 flags=RA 5eq=668 win=0 rtt=4.
+4 m5
+len=46 ip=192.168.0.220 ttl=64 DF id=56656 sport=0 flags=RA 5eq=669 win=0 rtt=4.
+4 m5
+len=46 ip=192.168. .220 ttl=64 DF id=5665? sport=0 flags=RA 5eq=6T0 win=0 rtt=4.
+5 m5
+
+.163. .220 ttl=64 DF id=56653 sport=0 flags=RA seqzﬁTl win=0 rtt=4.
+
+len=46 ip=192.163. .220 ttl=64 DF id=56659 sport=0 flags=RA seq=6T2 win=0 rtt=4.
+3 m5
+len=46 ip=192.163. .220 ttl=64 DF id=56660 Sport=0 flags=RA seq=6T3 win=0 rtt=4.
+3 ms
+
+.153. .220 ttl=64 id=56661 sport=0 flags=RA seq=6?4 win=0 rtt=3.
+
+ 
+
+UKRAI.” 3W4 W W
+
+1x1111111 UI
+TLCHNOLOGY
+
+9111111151111
+
+student@acpce-OptiPlex—330: ~
+
+5tudent@acpce:0ptiPlex:380: 5 ifc-nfig
+
+eth0 Ltnk encap:Ethernet HHaddr b8:ac: f:1f:b9:ﬁa
+inet addr:192.1j .0.213 Bcast2192.lﬁ .255.255 Mask
+inetﬁ addr: fe50::baac:6fff:fe1f:b9;af 4 Scope:L nk
+UP BROADCA T RUNNING MULTICAJT MTU:1500 Metric:1
+RX packets:3528 errors:0 dropped:0 overruns:0 frame:0
+TX pac ets:218 errors:0 dropped:0 overruns:0 carrier:0
+collisions:0 txqueuelen:1000
+RX bytes:419904 {419.9 KB} TX byte5:23592 {23.5 K1}
+Interruptslj
+
+L nk encap:Local u
+
+inet addr:12?.0.0.1
+
+inetﬁ addr: ::1;128
+
+UP LDDPBACK RUNNING f Metr1C21
+
+RX pac-ets:201 errors:0 dropped:0 overruns:0 frame:0
+TX pac ets:201 er r5:0 dropped:0 overruns:0 carrier:0
+collisions:0 txqueuelen:
+
+RX byte5:14j34 (14.. KB) T byte5:14c34 {14.4 KB}
+
+5tudent©acpce—DptiPlex—380: 5 I
+
+ 
+
+151555.553, 115151; 11155111915 help
+
+0151 I 561* 45111.
+
+511151; t(p v Expression... (1551 :55.
+
+ 
+   
+
+No. 111115 5014155 135511551155 111015551 L5ngth 11110
+1155 5.574555 192. 192.155.11.225 151: 55 595555511 > 5 [<5555>] 55
+
+ 
+   
+ 
+ 
+    
+ 
+
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+   
+   
+ 
+  
+  
+  
+   
+  
+
+ 
+
+ 
+
+    
+
+    
+ 
+ 
+    
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+      
+  
+
+      
+
+ 
+
+       
+
+ 
+
+   
+
+   
+
+  
+  
+  
+  
+   
+  
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+       
+
+   
+
+555 5.574754 152. 152.155 155 54 5 - 55551:5511 [551,
+955 9.574744 192. 192.155. 155 55 55:555:55555 > 5 [<N555>] 559
+5 .. 4752 1 155 54 5 » 55:555:5 [551,
+1145 15 514515 192. 155 555:5511 > 5
+1141 1. 574551 152 ,Cp
+1225 11.574575 192. rrP
+1257 11. 74555 152. 15:
+1339 12.574935 192. 1:5 gx5:5ata:5511 > 5 [<N555>] 55
+1545 1 74545 1 155 54 5 - 5.5:5515:5511 [551, 555] .5:1 551:1 er
+1435 1 574992 192. 155 55 vrtl:vmf:§i s 5 [(Ncnes] 559:1 w55:512 L5n:5
+1457 1 7 - :- 152. 15: 541:1 - 11:-.-111[:55 [551, 1 51:1
+1545 14.575552 192. 1:5 55 55w11x55g155 > 5 [<N555>] 555
+1541 14. 554 152. 155 54 5 ~ 1 11.555155 [551. 4551 555:1 A
+1522 15.575115 192. 155 55 newlixzunflg 5 5 [<Ncnn>] 555:1 w55:512 L5n:5
+1525 15 . 15: 54 5 ~ 55 11-55511; [551, Ar 1 5
+1591 1 192.155. 155 55 tsrmagt > 5 [<N555>] 55
+1551 15.1 151.15» 1rp 5411 - 1515111551 [551, um
+1754 17. 192.155. 155 55 tpzsrvr > 5 [<N555>] 55
+1H): 17.575255 152.152: 155 541.1 - 1115 -.-r [551, 1151.1
+1549 15 192.155. 155 55 15war5:15515r > 5 [<N555>] 55
+1555 15 155 54 a - 15 sre:rnuter [551
+1931 19. 155 55 autudesk:nlm > 5
+1552 15_5- 57 155 54 5 - sutudesl:m1m [551, 4551 555:1 A
+2535 25.575433 192.155. 155 55 kme:trap:aurt > 5 [<N555>] 55
+155 152.155 155 51 5 - Lme:tr;p:pcrt [551, 5551 .
+2133 21.575455 192.155. 155 55 1515w595 5 5 [555555] 555:1 w15:512 155:5
+2154 21.575554 152.11 155 54 5 ~ 151 [551, AF?
+2255 22. 192.155. 155
+2255 152.1. 155
+2297 22 192.155. 155 55 555515515rg55 > 5
+2255 2 755 : 152.155 155 54 5 - 5555155151555
+2455 74.575573 192.155. rrP 5n ada:rip > 5 [<N555>] 55
+245;124_575 55 152.15 ..215 155 54 5 » 555::15 [55
+
+ 
+
+Frame 151: 55 bytes 55 wire [455 5115;. 55 bytes 55515155 1455 51:5)
+:555r55t 11, 5r5: 5511,11:55:54 [55: :sf:lf:ha:hd). 555: 5511,25:55:45 {55:55:51:25:55:45)
+15151551 51515551 9515155 4, 515: 192.155.5.219 1192.155.u.219). 55:: 192.155.5.225 (192.155.5.225;
+11555m155155 5551151 51515551, 515 Port: n5tmount (2551). 55: Part: 9 (9). 555: 1, L55: 5
+
+ 
+
+5
+5
+
+5555 55 55 51 22 55 45 55 55 51 11 55 55 55 oo 45 00
+5515 55 25 25 15 55 55 45 55 <9 <5 <5 55 55 55 (o 55
+5525 55 55 55 55 55 55 55 15 77 74 51 95 91 57 55 00
+5555 52 55 51 55 55 55 55 55 55 55 55 55
+
+ 
+
+ 
+
+50
+
+1x11115111”
+TECHNOLOGY
+
+$ 13.1.1351.“ vm4mm
+
+ 
+
+6. Conclusion:
+
+DOS attacks affects availability of resources. DOS attack is simulated using Hping3 and
+resources are monitored using wireshark.
+
+7. Viva Questions:
+
+0 What is DOS Attack?
+0 How can you to prevent DOS?
+
+8. References:
+
+1. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+2. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+3. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+4. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+5. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+$ 13.3%“ DdeW
+
+I\\|Hl‘ll m
+TECHNOLOGY
+
+System Security Lab
+Experiment N0.: 9
+
+Setting up personal Firewall using
+iptables
+
+ 
+
+I\\|Hl‘|L m
+TECHNOLOGY
+
+$ 13mm DWJWW
+
+ 
+
+Experiment No. 9
+
+1. Aim: Setting up personal Firewall using iptables
+
+2. Objectives:
+0 Understand the need for personal firewall.
+0 Learn how to use iptables to set firewall rules.
+
+3. Outcomes: The learner will be able to
+Design their own rule and set up personal firewall at desktop using iptables.
+security problems with current research issues.
+
+4. Hardware/ Software Required: Unix/Linux, iptables
+
+5. Theory:
+
+All packets inspected by iptables pass through a sequence of built-in tables (queues) for
+processing. Each of these queues is dedicated to a particular type of packet actiVity and is
+controlled by an associated packet transformation/filtering chain.
+
+There are three tables in total. The first is the mangle table which is responsible for the
+alteration of quality of serVice bits in the TCP header. This is hardly used in a home or SOHO
+environment.
+
+The second table is the filter queue which is responsible for packet filtering. It has three built-
+in chains in which you can place your ﬁrewall policy rules. These are the:
+
+0 Forward chain: Filters packets to servers protected by the ﬁrewall.
+
+0 Input chain: Filters packets destined for the ﬁrewall.
+
+0 Output chain: Filters packets originating from the ﬁrewall.
+ACCEPT : iptables stops further processing.
+
+The packet is handed over to the end application or the operating system for
+processing.
+
+DROP : iptables stops further processing.
+The packet is blocked
+
+REJECT : Works like the DROP target, but will also return an error message to the host
+sending the packet that the packet was blocked
+
+ 
+
+9 13.3.1351.” Dmd W W
+
+TECHNOLOGY
+
+ 
+
+How To Start iptables
+
+You can start, stop, and restart iptables after booting by using the commands:
+
+$service iptables start
+
+$service iptables stop
+
+$service iptables restart
+
+Determining The Status of iptables
+
+You can determine whether iptables is running or not Via the serVice iptables status command.
+Fedora Core will give a simple status message. For example
+
+$service iptables status
+
+Firewall is stopped.
+
+1ptables commands
+iptables command
+Switch
+-L
+-n
+-V
+
+-t <-table->
+
+—j <target>
+
+-A
+
+-F
+
+-p <protocol-type>
+-s <ip-address>
+
+-d <ip-address>
+
+-i <interface-name>
+
+-o <interface-
+name>
+
+Description
+
+Listing of rules present in the chain
+Numeric output of addresses and ports
+Displays the rules in verbose mode
+
+If you don't specify a table, then the filter table is assumed. As
+discussed before, the possible built-in tables include: filter, nat,
+mangle
+
+Jump to the speciﬁed target chain when the packet matches the
+current rule.
+
+Append rule to end of a chain
+
+Flush. Deletes all the rules in the selected table
+
+Match protocol. Types include, icrnp, tcp, udp, and all
+Match source IP address
+
+Match destination IP address
+
+Match "input" interface on which the packet enters.
+
+Match "output" interface on which the packet exits
+
+ 
+
+I\V|Hl‘|l m
+TECHNOLOGY
+
+9 DXJZAI.” DWJWW
+
+ 
+
+Setting Firewall Rules using iptables
+
+1. Enabling trafﬁc on localhost
+$iptables -A INPUT -i eth0 -j ACCEPT
+2. Drop the ICMP Packet coming from source
+$iptables — I — INPUT — p —icrnp —icrnp -type 8 —j DROP -s (100204.15) -d (10.0.0.16)
+3. ICMP packet going from source are not allowed
+$iptables — I — OUTPUT — p —icmp —j DROP -s (10.0.0.16) -d (100204.15)
+4. To drop all kind of packets
+
+$iptables -1 INPUT —p all
+
+6. Conclusion:
+
+Firewall plays an important role on security architecture of a medium size or large
+organizations. Personal firewall is implemented using ruleset in iptables.
+
+7. Viva Questions:
+
+0 What is the role of firewall?
+o How to implement personal firewall using iptables?
+
+8. References:
+
+1. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+2. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+3. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+4. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+5. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+9 DYP’mL Dmdmm
+Téz:\lllif\lll(‘)lll(;‘(.iY
+
+System Security Lab
+Experiment N 0.: 10
+
+Set up IPSEC under LINUX.
+
+ 
+
+|\\|Hl ll m
+
+TU'HNOLOGY
+MU “mm.
+
+% D.X..I?A.I.IL DWJWW
+
+ 
+
+Experiment No. 10
+
+1. Aim: Set up IPSEC under LINUX.
+
+2. Objectives:
+0 Understand the security at IP layer.
+0 Understand Intrusion detection system.
+0 Understand how IPSec and Snort works to ensure security.
+
+3. Outcomes: The learner will be able to
+Explore tools for IPSec and Snort— IDS tool.
+
+4. Hardware/ Software Required: Unix/Linux, IPsec, Snort
+5. Theory:
+
+Set up IPSEC under LINUX
+
+Internet Protocol Security (IPsec) is a protocol suite for securing Internet Protocol (IP)
+communications by authenticating and encrypting each IP packet of a communication
+session. IPsec includes protocols for establishing mutual authentication between agents at the
+beginning of the session and negotiation of cryptographic keys to be used during the session.
+IPsec can be used in protecting data ﬂows between a pair of hosts (host-to-host), between a
+pair of security gateways (nelwork-to-network), or between a security gateway and a host
+(network-to-host)
+
+Internet Protocol security (IPsec) uses cryptographic security serVices to protect
+
+communications over Internet Protocol (IP) networks. IPsec supports network-level peer
+authentication, data origin authentication, data integrity, data confidentiality (encryption), and
+replay protection.
+IPsec is an end-to-end security scheme operating in the Internet Layer of the Internet Protocol
+Suite, while some other Internet security systems in widespread use, such as Transport Layer
+Security (TLS) and Secure Shell (SSH), operate in the upper layers at Application layer.
+Hence, only IPsec protects any application traffic over an IP network. Applications can be
+automatically secured by IPsec at the IP layer.
+
+Here ipsec is implemented using strongSwan tool. strongSwan is a IPsec implementation. It
+uses openSSL pluugin (Eliptic Curve Cryptography).
+
+Let two servers be red server (192.168.4144) and blue server
+(192.168.4145)
+
+ 
+
+|\\|H\ HUI
+
+TLCHNOLOGY
+
+% D.X.I?AI.IL DWJWW
+
+ 
+
+Installation and configuration on red server
+
+Step 1: Installation of strongswan
+
+$ sudo apt-get install ipsec-tools strongswan-starter
+
+[sudo] password for project:
+
+Reading package lists... Done
+
+Building dependency tree
+
+Reading state information... Done
+
+ipsec-tools is already the newest version (l:0.8.2+201407l 1-5).
+
+The following packages were automatically installed and are no longer required:
+geoip-database-extra libjs-openlayers libllvrn5.0 lichustornplotl .3
+libqt5scintilla2-12V5 libqt5scintilla2-llOn libwiresharklO libwireshark8
+libwiretap6 libwiretap7 libwscodecsl libwsutil7 libwsutil8
+linuX-headers -4. 100-38 linuX-headers -4. 10.0-38-generic
+linuX-headers -4. 130-32 linuX-headers -4. 13.0-32-generic
+linuX-headers -4. 130-33 linuX-headers -4. 13.0-33-generic
+linuX-headers -4. 130-37 linuX-headers -4. 13.0-37-generic
+linuX-irnage-4.10.0-38-generic linuX-irnage-4.13.0-32-generic
+linuX-irnage-4.13.0-33-generic linuX-irnage-4.13.0-37-generic
+linuX-irnage-extra-4.10.0-38-generic linuX-irnage-extra-4.13.0-32-generic
+linuX-irnage-extra-4.13.0-33-generic linuX-irnage-extra-4.13.0-37-generic
+Use 'sudo apt autorernove' to remove them.
+
+The following additional packages will be installed:
+libstrongswan libstrongswan-standard-plugins strongswan-charon
+strongswan-libcharon
+
+Suggested packages:
+
+ 
+
+|\\|Hl ll m
+
+TU'HNOLOGY
+MU “mm.
+
+% D.X..I?A.I.IL DWJWW
+
+ 
+
+libstrongswan-extra-plugins libcharon-eXtra-plugins
+
+The following packages will be REMOVED:
+
+racoon
+
+The following NEW packages will be installed:
+
+libstrongswan libstrongswan-standard-plugins strongswan-charon
+strongswan-libcharon strongswan-starter
+
+0 upgraded, 5 newly installed, 1 to remove and 51 not upgraded.
+Need to get 3,563 kB of archives.
+
+After this operation, 13.3 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+
+Get:1 http://in.archive.ubuntu.con1/ubuntu xenial-updates/rnain i386 libstrongswan i386
+5.3.5-
+
+1ubuntu3.5 [1,337 kB]
+
+Get:2 http://in.archive.ubuntu.corn/ubuntu xenial-updates/rnain i386 strongswan-libcharon
+i386 5.3.5-1ubuntu3.5 [1,191 kB]
+
+Get:3 http://in.archive.ubuntu.corn/ubuntu xenial-updates/rnain i386 strongswan-starter i386
+5.3.5-1ubuntu3.5 [720 kB]
+
+Get:4 http://in.archive.ubuntu.corn/ubuntu xenial-updates/rnain i386 strongswan-charon
+i386 5.3.5-1ubuntu3.5 [54.5 kB]
+
+Get:5 http://in.archive.ubuntu.corn/ubuntu xenial-updates/rnain i386 libstrongswan-
+standard-plugins i386 5.3.5-1ubuntu3.5 [260 kB]
+
+Fetched 3,563 kB in 34s (104 kB/s)
+
+Preconfiguring packages
+
+(Reading database 406558 ﬁles and directories currently installed.)
+Removing racoon (1:0.8.2+20140711-5)
+
+Processing triggers for rnan-db (2.7.5-1)
+
+Selecting preViously unselected package libstrongswan.
+
+ 
+
+l
+|\\|Hl ll m
+TL('llNL)LO(iY
+Muwmm
+
+$ D.X..I’.A..T.” Dmol W W
+
+ 
+
+(Reading database 406492 ﬁles and directories currently installed.)
+Preparing to unpack .../libstrongswan_5.3.5-1ubuntu3.5_i386.deb
+Unpacking libstrongswan (5.3.5-1ubuntu3.5)
+
+Selecting preViously unselected package strongswan-libcharon.
+
+Preparing to unpack .../strongswan-libcharon_5.3.5-1ubuntu3.5_i386.deb
+Unpacking strongswan-libcharon (5.3.5-1ubuntu3.5)
+
+Selecting preViously unselected package strongswan-starter.
+
+Preparing to unpack .../strongswan-starter_5.3.5-1ubuntu3.5_i386.deb
+Unpacking strongswan-starter (5.3.5-1ubuntu3.5)
+
+Selecting preViously unselected package strongswan-charon.
+
+Preparing to unpack .../strongswan-charon_5.3.5-1ubuntu3.5_i386.deb
+Unpacking strongswan-charon (5.3.5-1ubuntu3.5)
+
+Selecting preViously unselected package libstrongswan-standard-plugins.
+Preparing to unpack .../libstrongswan-standard-plugins_5.3.5-1ubuntu3.5_i386.deb
+Unpacking libstrongswan-standard-plugins (5.3.5-1ubuntu3.5)
+Processing triggers for rnan-db (2.7.5-1)
+
+Setting up libstrongswan (5.3.5-1ubuntu3.5)
+
+Setting up strongswan-libcharon (5.3.5-1ubuntu3.5)
+
+Setting up strongswan-starter (5.3.5-1ubuntu3.5)
+
+Conﬁguration ﬁle '/etc/ipsec.conf
+
+==> File on system created by you or by a script.
+
+==> File also in package provided by package maintainer.
+What would you like to do about it ? Your options are:
+
+Y or I : install the package maintainer's version
+
+ 
+
+936.1351.” Dmd W W
+
+IN\IllUIl u:
+TECHNOLOGY
+
+wu- wmm
+
+ 
+
+N or O : keep your currently-installed version
+D : show the differences between the versions
+Z : start a shell to examine the situation
+The default action is to keep your current version.
+*** ipsec.conf (Y/I/N/O/D/Z) [default=N] ? y
+Installing new version of conﬁg ﬁle /etc/ipsec.conf
+Setting up strongswan-charon (5.3.5-1ubuntu3.5)
+
+Setting up libstrongswan-standard-plugins (5.3.5-1ubuntu3.5)
+
+Step 2: Configuration of ipsec.c0nf
+
+$ sudo gedit /etc/ipsec.conf
+
+ipsec.cunF(/etc)-gedit t. a 111') 4:18PM 11}
+
+ 
+
+Open v m ipsec.<anf
+
+" ipsec.conf , strongswan IPsec cnnfig Openafﬂele
+
+# basic configuration
+
+config setup
+3 strictcrlpulicy:yes
+H untqueids : no
+
+R Sample VPN connections
+
+Conn sampLe-self-signed
+leftsubnet:16.1.6.B/15
+1eftcert:selfcert.der
+1eftsendcert:never
+right=192.165.0.2
+rightsubnet:16.2.B.B/16
+rightcert:peercert.der
+auto:start
+
+léiih
+E
+g 1: Add (onnections here.
+E1
+
+#
+3
+#
+R
+#
+#
+3
+#
+
+#conn samplerwithrcarcert
+# leftsubnet:16.1.6.B/16
+
+ 
+
+# 1eftcert:mycert.pem
+
+a rrght=192.155.0.2
+
+R rightsubnet=1@.2.@.@/16
+
+# rightid:”C:CH, D:Linux strongswan CN:peer name"
+# auto:start
+
+(nun redrtoVblue
+authby=secret
+auto:route
+keyex<hange:ike
+1eft:192.168.4.144
+
+- rtght:192.1sa.4.145
+
+.l’ H type:transpnrt
+
+esp:ae5125gcm16!
+
+ 
+
+I PlainTextv Tabwidtlmav Ln1,Col1 v INS
+
+Step 3: Configuration of ipsec.secrets
+
+$ sudo gedit /etc/ipsec.secrets
+
+ 
+
+INHHUH m
+TECHNOLOGY
+
+9 D.X..l’.,A.I.IL Dmd W W
+
+ 
+
+t; a 411') 4:19PM {harm}
+
+ipsec.secrets
+
+ 
+
+3: RSA private key for this host, authenticating it to any other host
+E # “huh knows the public part.
+192.168.4J44 192.168.4J45 : PSK "Vnur password here!"
+
+ 
+
+‘ Loading file'/et(fipse(.se(rets'... PlainText ' Tab Width: 3 V Ln 1.1:ol1 ' INS
+
+Step 4: Start ipsec
+$ sudo ipsec restart
+Stopping strongSwan IPsec...
+
+Starting strongSwan 5.3.5 IPsec [starter]...
+
+Step 5: Checking status information of ipsec
+$ sudo ipsec statusall
+Status of IKE charon daemon (strongSwan 5.3.5, Linux 4.15.0-24-generic, i686):
+uptime: 29 seconds, since Jul 12 16:04:50 2018
+malloc: sbrk 1212416, rnrnap 0, used 178752, free 1033664
+worker threads: 11 of 16 idle, 5/0/0/0 working, job queue: 0/0/0/0, scheduled: 0
+
+loaded plugins: charon test-vectors aes rc2 sha1 sha2 md4 md5 random nonce X509
+revocation constraints pubkey pkcsl pkcs7 pkcs8 pkcs12 pgp dnskey sshkey pern openssl
+
+ 
+
+|\\|H\|1U|
+TLCHNOLOGY
+
+$ DXE’APL Dmdmm
+
+ 
+
+ﬁps-prf gmp agent xcbc hmac gcrn attr kernel-netlink resolve socket-default connmark
+stroke updown
+
+Listening IP addresses:
+192.168.4.144
+Connections:
+red-to-blue: 192.168.4.144...192.168.4.145 IKEV1/2
+red-to-blue: local: [192.168.4.144] uses pre-shared key authentication
+red-to-blue: remote: [192.168.4.145] uses pre-shared key authentication
+red-to-blue: child: dynamic === dynamic TRANSPORT
+Routed Connections:
+red-to-blue{1}: ROUTED, TRANSPORT, reqid 1
+red-to-blue{1}: 192.168.4.144/32 === 192.168.4.145/32
+Security Associations (0 up, 0 connecting):
+
+None
+Installation and configuration on blue server
+
+Step 1: Installation of strongswan
+
+$ sudo apt-get install ipsec-tools strongswan-starter
+
+[sudo] password for project:
+
+Reading package lists... Done
+
+Building dependency tree
+
+Reading state information... Done
+
+ipsec-tools is already the newest version (1:0.8.2+20140711-5).
+
+The following packages were automatically installed and are no longer required:
+geoip-database-extra libjs-openlayers libwireshark8 libwiretap6 libwscodecsl
+
+libwsutil7 libwsutil8 linuX-headers-4.13.0-32
+
+ 
+
+l
+|\\|Hl ll m
+TL('llNL)LO(iY
+Muumm.
+
+$ D.X..I’.A..T.” Dmol W W
+
+ 
+
+linuX-headers-4. 13.0-32-generic linuX-headers-4. 13.0-36
+linuX-headers-4. 13.0-36-generic linuX-headers-4. 13.0-37
+linuX-headers-4.13.0-37-generic linuX-irnage-4.13.0-32-generic
+linuX-irnage-4.13.0-36-generic linuX-irnage-4.13.0-37-generic
+linuX-irnage-extra-4.13.0-32-generic linuX-irnage-extra-4.13.0-36-generic
+linuX-irnage-extra-4.13.0-37-generic
+
+Use 'sudo apt autorernove' to remove them.
+
+The following additional packages will be installed:
+libstrongswan libstrongswan-standard-plugins strongswan-charon
+strongswan-libcharon
+
+Suggested packages:
+libstrongswan-extra-plugins libcharon-eXtra-plugins
+
+The following packages will be REMOVED:
+racoon
+
+The following NEW packages will be installed:
+libstrongswan libstrongswan-standard-plugins strongswan-charon
+strongswan-libcharon strongswan-starter
+
+0 upgraded, 5 newly installed, 1 to remove and 54 not upgraded.
+
+Need to get 3,563 kB of archives.
+
+After this operation, 13.3 MB of additional disk space will be used.
+
+Do you want to continue? [Y/n] y
+
+Get:1 http://in.archive.ubuntu.con1/ubuntu xenial-updates/rnain i386 libstrongswan i386
+5.3.5-1ubuntu3.5 [1,337 kB]
+
+Get:2 http://in.archive.ubuntu.con1/ubuntu xenial-updates/rnain i386 strongswan-libcharon
+i386 5.3.5-1ubuntu3.5 [1,191kB]
+
+Get:3 http://in.archive.ubuntu.con1/ubuntu xenial-updates/rnain i386 strongswan-starter i386
+
+ 
+
+5.3.5-1ubuntu3.5 [720 kB]
+
+l
+|\\|Hl ll m
+TL('llNL)LO(iY
+Muwmm
+
+$ D.X..I’.A..T.” Dmol W W
+
+ 
+
+Get:4 http://in.archive.ubuntu.con1/ubuntu xenial-updates/rnain i386 strongswan-charon i386
+5.3.5-1ubuntu3.5 [54.5 kB]
+
+Get:5 http://in.archive.ubuntu.con1/ubuntu xenial-updates/rnain i386 libstrongswan-standard-
+plugins i386 5.3.5-1ubuntu3.5 [260 kB]
+
+Fetched 3,563 kB in 12s (278 kB/s)
+
+Preconﬁguring packages
+
+(Reading database 370690 ﬁles and directories currently installed.)
+Removing racoon (1:0.8.2+20140711-5)
+
+Processing triggers for rnan-db (2.7.5-1)
+
+Selecting preViously unselected package libstrongswan.
+
+(Reading database 370624 ﬁles and directories currently installed.)
+Preparing to unpack .../libstrongswan_5.3.5-1ubuntu3.5_i386.deb
+Unpacking libstrongswan (5.3.5-1ubuntu3.5)
+
+Selecting preViously unselected package strongswan-libcharon.
+Preparing to unpack .../strongswan-libcharon_5.3.5-1ubuntu3.5_i386.deb
+Unpacking strongswan-libcharon (5.3.5-1ubuntu3.5)
+
+Selecting preViously unselected package strongswan-starter.
+
+Preparing to unpack .../strongswan-starter_5.3.5-1ubuntu3.5_i386.deb
+Unpacking strongswan-starter (5.3.5-1ubuntu3.5)
+
+Selecting preViously unselected package strongswan-charon.
+
+Preparing to unpack .../strongswan-charon_5.3.5-1ubuntu3.5_i386.deb
+Unpacking strongswan-charon (5.3.5-1ubuntu3.5)
+
+Selecting preViously unselected package libstrongswan-standard-plugins.
+Preparing to unpack .../libstrongswan-standard-plugins_5.3.5-1ubuntu3.5_i386.deb
+Unpacking libstrongswan-standard-plugins (5.3.5-1ubuntu3.5)
+
+Processing triggers for rnan-db (2.7.5-1)
+
+ 
+
+$ UKRAI.” Dmd W W
+
+T[(:HNOLOGY
+
+ 
+
+Setting up libstrongswan (5.3.5-1ubuntu3.5)
+Setting up strongswan-libcharon (5.3.5-1ubuntu3.5)
+
+Setting up strongswan-starter (5.3.5-1ubuntu3.5)
+
+Conﬁguration ﬁle '/etc/ipsec.conf
+==> File on system created by you or by a script.
+==> File also in package provided by package maintainer.
+What would you like to do about it ? Your options are:
+Y or I : install the package maintainer's version
+N or O : keep your currently-installed version
+D : show the differences between the versions
+Z : start a shell to examine the situation
+The default action is to keep your current version.
+*** ipsec.conf (Y/I/N/O/D/Z) [default=N] ? y
+Installing new version of conﬁg ﬁle /etc/ipsec.conf
+Setting up strongswan-charon (5.3.5-1ubuntu3.5)
+
+Setting up libstrongswan-standard-plugins (5.3.5-1ubuntu3.5)
+
+Step 2: Configuration of ipsec.c0nf
+
+$ sudo gedit /etc/ipsec.conf
+
+ 
+
+D.X..1.’.,A.I.1L Dmd W W
+
+lelllUIE nr
+TECHNO LOGY
+
+mm «mum
+
+ipsec.cunF(/et:I-gedit u m 11:) 415 pm (1).
+
+Open v m ipsecmnr
+
+ 
+
+u ipsec (onf - strungswan IPsec configuration file
+a basic configuratinn
+
+cnnfig setup
+» strictcrlpulicy:yes
+a uniqueids : no
+
+a Add (onne(tiuns here.
+a Sample VPN (onnectinns
+
+a(nnn samplerselfrsigned
+
+1! leftsubne 0.1.0.0/16
+1! lefttert:seLFCert,der
+1! leftsendcert:never
+
+1! right:192.163.8.2
+1!
+1!
+1!
+
+ 
+
+rightsubnet:lﬁ.2.0.0/16
+rightcert=peercert.der
+auto:start
+
+aconn samplerwtthrcarcert
+a 9.1.0.0/15
+
+   
+
+# yCert,pem
+
+# right:192.1sa.a.2
+
+a rightsubnet 19.2.0.0/15
+n
+
+n
+
+ 
+
+rightid:" :cH, c: Lnux strungswan CN:peer name"
+auto=start
+
+(onn bluthoVred
+authby:secret
+auto:route
+keyex:hange:ike
+1eft:192,165,4,14s
+right:192.153.4.144
+type:transport
+esp:aeslzagcm16
+
+PlainTextV Tabwidthnav Ln1.Col1 V INS
+
+Step 3: Configuration of ipsec.secrets
+
+$ sudo gedit /etc/ipsec.secrets
+
+ipsec.secrets ([eth-gedit t. a 4:2) 415nm 4:)
+
+Open - m Ipsec.secrets
+
+ 
+
+This file holds shared secrets or RSA private keys for authentication.
+
+RSA private key for this host, authenticating it to any other host
+which knows the public part.
+
+92,168.44“ 192.168.4.145 : PSK "Vour password here!"
+
+PlainText V Tab width: 3 V Ln1,Col1 V INS
+
+ 
+
+67
+
+|\\|H\|1U|
+TLCHNOLOGY
+
+% 13.3mm Dmdmm
+
+ 
+
+Step 4: Start ipsec
+$ sudo ipsec restart
+Stopping strongSwan IPsec...
+
+Starting strongSwan 5.3.5 IPsec [starter]...
+
+Testing the Tunnel
+
+Step 1: On red server (192.168.4.144), run following command
+$ ping -s 4048 192.168.4.145
+
+PING 192.168.4.145 (192. 168.4. 145) 4048(4076) bytes of data.
+4056 bytes from 192.168.4.145: icrnp_seq=2 ttl=64 tirne=1.63 rns
+4056 bytes from 192.168.4.145: icrnp_seq=3 ttl=64 tirne=1.63 rns
+4056 bytes from 192.168.4.145: icrnp_seq=4 ttl=64 tirne=1.50 rns
+4056 bytes from 192.168.4.145: icrnp_seq=5 ttl=64 tirne=1.49 rns
+4056 bytes from 192.168.4.145: icrnp_seq=6 ttl=64 tirne=1.54 rns
+4056 bytes from 192.168.4.145: icrnp_seq=7 ttl=64 tirne=1.41 rns
+4056 bytes from 192.168.4.145: icrnp_seq=8 ttl=64 tirne=1.44 rns
+4056 bytes from 192.168.4.145: icrnp_seq=9 ttl=64 tirne=1.61 rns
+4056 bytes from 192.168.4.145: icrnp_seq=10 ttl=64 tirne=1.44 rns
+4056 bytes from 192.168.4.145: icrnp_seq=11 ttl=64 tirne=1.48 rns
+4056 bytes from 192.168.4.145: icrnp_seq=12 ttl=64 tirne=1.43 rns
+4056 bytes from 192.168.4.145: icrnp_seq=13 ttl=64 tirne=1.57 rns
+4056 bytes from 192.168.4.145: icrnp_seq=14 ttl=64 tirne=1.46 rns
+4056 bytes from 192.168.4.145: icrnp_seq=15 ttl=64 tirne=1.47 rns
+
+4056 bytes from 192.168.4.145: icrnp_seq=16 ttl=64 tirne=1.49 rns
+
+ 
+
+DY PATIL
+
+I:\M>;\n mm
+|\\|Hl ll m
+
+%
+
+DWMWW
+
+TU'HNOLOGY
+MU “mm.
+
+ 
+
+4056 bytes from 192.168.4.145: icrnp_seq=17 ttl=64 tirne=1.48 rns
+
+Step 2: Checking working of ipsec
+
+$ sudo tcpdump esp
+
+tcpdurnp: verbose output suppressed, use -V or -VV for full protocol decode
+
+listening on enp1s0, link-type ENlOMB (Ethernet), capture size 262144 bytes
+
+16:13:18.288011IP192.168.4.144 >192.168.4.145:
+
+1440
+
+16:13:18.288037 IP192.168.4.144 >192.168.4.145:
+16:13:18.288042 IP192.168.4.144 >192.168.4.145:
+
+16:13:18.288304 IP192.168.4.145 > 192.168.4.144:
+
+1440
+
+16:13:18.288309 IP192.168.4.145 > 192.168.4.144:
+16:13:18.288312 IP192.168.4.145 >192.168.4.144:
+
+16:13:19.289705 IP192.168.4.144 >192.168.4.145:
+
+1440
+
+16:13:19.289732 IP192.168.4.144 >192.168.4.145:
+16:13:19.289736 IP192.168.4.144 >192.168.4.145:
+
+16:13:19.290026 IP192.168.4.145 > 192.168.4.144:
+
+1440
+
+16:13:19.290035IP192.168.4.145 > 192.168.4.144:
+16:13:19.290038 IP192.168.4.145 > 192.168.4.144:
+
+16:13:20.291361IP192.168.4.144 >192.168.4.145:
+
+1440
+
+16:13:20.291386 IP192.168.4.144 >192.168.4.145:
+16:13:20.291471IP192.168.4.144 >192.168.4.145:
+
+16:13:20.291802 IP192.168.4.145 > 192.168.4.144:
+
+1440
+
+16:13:20.291812 IP192.168.4.145 >192.168.4.144:
+
+ESP(spi=0xc6c1b87d,seq=0x80), length
+
+esp
+esp
+
+ESP(spi=0xca32160f,seq=0x80), length
+
+esp
+esp
+
+ESP(spi=0xc6c1b87d,seq=0x81), length
+
+esp
+esp
+
+ESP(spi=0xca32160f,seq=0x81), length
+
+esp
+esp
+
+ESP(spi=0xc6c1b87d,seq=0x82), length
+
+esp
+esp
+
+ESP(spi=0xca32160f,seq=0x82), length
+
+esp
+
+ 
+
+DY PATIL
+
+I:\M>;\n mm
+|\\|Hl ll m
+
+TU'HNOLOGY
+MU “mm.
+
+%
+
+ 
+
+16:13:20.291815 IP192.168.4.145 >192.168.4.144:
+
+16:13:21.293353 IP192.168.4.144 > 192.168.4.145:
+
+1440
+
+16:13:21.293379 IP192.168.4.144 >192.168.4.145:
+
+16:13:21.293384 IP192.168.4.144 >192.168.4.145:
+
+16:13:21.293820 IP192.168.4.145 > 192.168.4.144:
+
+1440
+
+16:13:21.293832 IP192.168.4.145 > 192.168.4.144:
+
+16:13:21.293834 IP192.168.4.145 > 192.168.4.144:
+
+16:13:22.295418 IP192.168.4.144 >192.168.4.145:
+
+1440
+
+16:13:22.295444 IP 192.168.4.144 > 192.168.4.145:
+
+16:13:22.295452 IP 192.168.4.144 > 192.168.4.145:
+
+16:13:22.295741 IP 192.168.4.145 > 192.168.4.144:
+
+1440
+
+16:13:22.295750 IP 192.168.4.145 > 192.168.4.144:
+
+16:13:22.295753 IP 192.168.4.145 > 192.168.4.144:
+
+16:13:23.297317 IP192.168.4.144 >192.168.4.145:
+
+1440
+
+16:13:23.297343 IP192.168.4.144 > 192.168.4.145:
+
+16:13:23.297348 IP192.168.4.144 > 192.168.4.145:
+
+16:13:23.297760 IP 192.168.4.145 > 192.168.4.144:
+
+1440
+
+16:13:23.297772 IP 192.168.4.145 > 192.168.4.144:
+
+16:13:23.297775 IP 192.168.4.145 > 192.168.4.144:
+
+16:13:24.299255 IP 192.168.4.144 > 192.168.4.145:
+
+1440
+
+16:13:24.299281 IP192.168.4.144 > 192.168.4.145:
+
+DWMWW
+
+esp
+
+ESP(spi=0xc6c1b87d,seq=0x83), length
+
+esp
+esp
+
+ESP(spi=0xca32160f,seq=0x83), length
+
+esp
+esp
+
+ESP(spi=0xc6c1b87d,seq=0x84), length
+
+esp
+esp
+
+ESP(spi=0xca32160f,seq=0x84), length
+
+esp
+esp
+
+ESP(spi=0xc6c1b87d,seq=0x85), length
+
+esp
+esp
+
+ESP(spi=0xca32160f,seq=0x85), length
+
+esp
+esp
+
+ESP(spi=0xc6c1b87d,seq=0x86), length
+
+esp
+
+ 
+
+|\\|H\|10|
+
+% D.X.I?AI.IL Dmdmm
+
+TLCHNOLOGY
+
+ 
+
+16:13:24.299286 IP 192.168.4.144 > 192.168.4.145:
+
+16:13:24.299684 IP 192.168.4.145 > 192.168.4.144:
+
+1440
+
+16:13:24.299696 IP 192.168.4.145 > 192.168.4.144:
+16:13:24.299699 IP 192.168.4.145 > 192.168.4.144:
+
+16:13:25.301028 IP192.168.4.144 >192.168.4.145:
+
+1440
+
+16:13:25.301050 IP192.168.4.144 >192.168.4.145:
+16:13:25.301204 IP192.168.4.144 >192.168.4.145:
+
+16:13:25.301537IP192.168.4.145 > 192.168.4.144:
+
+1440
+
+16:13:25.301560 IP192.168.4.145 > 192.168.4.144:
+
+16:13:25.301562 IP192.168.4.145 > 192.168.4.144:
+
+6. Conclusion:
+
+esp
+
+ESP(spi=0xca32160f,seq=0x86), length
+
+esp
+esp
+
+ESP(spi=0xc6c1b87d,seq=0x87), length
+
+esp
+esp
+
+ESP(spi=0xca32160f,seq=0x87), length
+
+esp
+
+esp
+
+IPSec Internet security protocol is implemented using Strongswan. The red and blue
+servers are installed and then tested tunnel to check working of IPSec protocol.
+
+7. Viva Questions:
+
+0 What is IpSec?
+
+8. References:
+
+1. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second Edition.
+2. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network Security”, Tata
+
+McGraw Hill, Second edition
+
+3. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+$DYPATIL Did Mama, :
+Tillihiiid'iw
+
+System Security Lab
+Experiment N 0.: 11
+
+Simulate buffer overﬂow attack using
+
+Ollydbg, Splint, Cppcheck etc
+
+ 
+
+l
+|\\|Hl ll m
+TL('llNL)LO(iY
+Muwmm
+
+$ D.X..I’.A..T.” Dmol W W
+
+ 
+
+Experiment No. 11
+
+1. Aim: Simulate buffer overﬂow attack using Ollydbg, Splint, Cppcheck etc
+
+2. Objectives:
+0 Understand the concept of buffer overﬂow.
+0 Understand and use Ollydbg, Splint and cppcheck to detect buffer overﬂow.
+
+3. Outcomes: The learner will be able to
+Install and use Ollydbg, Splint and cppcheck tools to check source code to
+detect various vulnerabilities causing buffer overﬂow attack.
+
+4. Hardware/ Software Required: UniX/LinuXNVindows, Ollydbg, Splint, cppcheck
+
+5. Theory:
+
+1. Cppcheck : Cppcheck is a tool for static C/C++ code analysis (CLI). Cppcheck is a
+command-line tool that tries to detect bugs that your C/C++ compiler doesn't see. It is
+versatile, and can check non-standard code including various compiler extensions, inline
+assembly code, etc. Its internal preprocessor can handle includes, macros, and several
+pre-processor commands. While Cppcheck is highly conﬁgurable, you can start using it
+just by giving it a path to the source code.
+
+It includes checks for:
+
+* pointers to out-of—scope auto variables;
+
+* assignment of auto variables to an effective parameter of a function;
+* out-of—bounds errors in arrays and STL;
+
+* missing class constructors;
+
+* variables not initialized by a constructor;
+
+* use of memset, rnerncpy, etcetera on a class;
+
+* non-Virtual destructors for base classes;
+
+* operator: not returning a constant reference to itself;
+
+* use of deprecated functions (mkternp, gets, scant);
+
+* exceptions thrown in destructors;
+
+ 
+
+|\\|Hl‘|LU|
+
+$ D.X.I:AI.IL Dmdmm
+
+T[(:HNOLOGY
+
+ 
+
+* memory leaks in class or function variables;
+* C-style pointer cast in C++ code;
+* redundant if;
+* misuse of the strtol or sprintf functions;
+* unsigned diVision or diVision by zero;
+* unused functions and struct members;
+* passing parameters by value;
+* misuse of signed char variables;
+* unusual pointer arithmetic (such as "abc" + 'd');
+* dereferenced null pointers;
+* incomplete statements;
+* misuse of iterators when iterating through a container;
+* dereferencing of erased iterators;
+* use of invalidated vector iterators/pointers;
+Step 1: Installation of cppcheck
+$sudo apt-get install cppcheck
+
+Step 2: Checking Vulnerability
+
+ 
+
+Sample2.c
+char ﬁrstCharl (/*@null@ */ char *s)
+
+{
+return *s;
+
+}
+
+char ﬁrstChar2 (/*@null@ */ char *s)
+
+{
+if ( == NULL) return ‘\0’;
+
+return *s;
+
+ 
+
+}
+
+ 
+
+ 
+
+ 
+
+DE. .1351.” Dmd W W
+
+|\\|Hl ll m
+TL('llNL)LO(iY
+
+Mu “mum
+
+ 
+
+é ,
+'3
+a
+a
+a
+g;
+a
+a
+..
+I
+i
+i
+
+2.
+
+$ cppcheck sample2.c
+
+ 
+
+Splint : Splint is a tool for statically checking C programs for security vulnerabilities
+and programming mistakes. Splint does many of the traditional lint checks including
+unused declarations, type inconsistencies, use before definition, unreachable code,
+ignored return values, execution paths with no return, likely infinite loops, and fall
+through cases. More powerful checks are made possible by additional information given
+in source code annotations. Annotations are stylized comments that document
+assumptions about functions, variables, parameters and types. In addition to the checks
+specifically enabled by annotations, many of the traditional lint checks are improved by
+exploiting this additional information.
+
+Splint is designed to be ﬂexible and allow programmers to select appropriate points on
+the effort-beneﬁt curve for particular projects. As different checks are turned on and
+more information is given in code annotations the number of bugs that can be detected
+increases dramatically. Problems detected by Splint include:
+
+o Dereferencing a possibly null pointer
+
+0 Using possibly undefined storage or returning storage that is not properly
+defined
+
+0 Type mismatches, with greater precision and ﬂexibility than provided by C
+compilers
+
+ 
+
+DE. .1351.” Dmd W W
+
+|\\|Hl ll m
+TL('llNL)LO(iY
+
+Mu “mum
+
+ 
+
+o Violations of information hiding
+
+0 Memory management errors including uses of dangling references and
+
+memory leaks
+0 Dangerous aliasing
+
+0 Modifications and global variable uses that are inconsistent with speciﬁed
+
+interfaces
+
+0 Problematic control ﬂow such as likely infinite loops, fall through cases or
+
+incomplete switches and suspicious statements
+0 Buffer overﬂow vulnerabilities
+0 Dangerous macro implementations or invocations
+
+o Violations of customized naming conventions
+
+Examplesl :
+
+$ splint sample2.c
+
+G)
+I)
+a
+CF
+I?!
+I.
+I
+I.
+
+ 
+
+ 
+
+9 D.X...I.’.{‘.I.1L Dmd W W
+
+TECHNOLOGY
+
+ 
+
+Example 2:
+
+ 
+
+Sample3.c
+#include <stdio.h>
+
+#include <string.h>
+
+int main(void)
+
+{
+char buff[15];
+int pass = 0;
+
+printf("\n Enter the password : \n");
+gets(buff);
+
+if(strcrnp(buff, "thegeekstuff"))
+
+{
+printf ("\n Wrong Password \n");
+
+}
+
+else
+
+{
+printf ("\n Correct Password \n");
+pass = 1;
+
+}
+
+if(pass)
+
+{
+/* Now Give root or admin rights to user*/
+printf ("\n Root privileges given to the user \n");
+
+}
+
+return 0;
+
+ 
+
+ 
+
+ 
+
+$splint sample3.c
+
+ 
+
+1 ll
+|\:Illl ll (‘1
+T1('HNL)LOUY
+
+% D.?.I’AT.” Dmdmm
+
+“ll 6)
+
+w
+
+v
+
+E
+Q
+'2'
+|.—‘
+E:
+n
+a
+g
+
+ 
+
+Example 3:
+
+ 
+
+ 
+
+Sample4.c
+#include <stdio.h>
+#include <string.h>
+char password[] = "password";
+int get_password() {
+int auth_ok = 0;
+char buff[16];
+printf("Enter password: ");
+scanf("%s", buff);
+if(strncrnp(buff, password, sizeof(password)) == 0)
+auth_ok = 1;
+return auth_ok;
+}
+void success() {
+printf("Success!\n");
+}
+int main(int argc, char** argV) {
+int res = get_password();
+if (res == 0) {
+printf("Failure\n");
+return 0;
+}
+success();
+return 0;
+
+ 
+
+1 ll
+|\:Illl ll (‘1
+T1('HNL)LOUY
+
+% D.?.I’AT.” Dmdmm
+
+ 
+
+$splint sample4.c
+
+(A
+
+l
+W.
+
+1
+D
+E
+’5‘)
+L;
+
+:7",
+g
+E
+E.
+
+ 
+
+3. Ollydbg: OllyDbg is a 32-bit assembler level analysing debugger for Windows. It
+emphasizes binary code analysis, which is useful when source code is not available. It
+traces registers, recognizes procedures, API calls, switches, tables, constants and strings,
+as well as locates routines from object ﬁles and libraries. It has a user friendly interface,
+
+and its functionality can be extended by third-party plugins.
+
+Installation: Download Ollydbg from ollydbg.org and install it on windows. Make
+executable of following C program rtrace.c and open it in ollydbg for debugging.
+
+ 
+
+DY PATH.
+
+I{\MR\01\IHA
+INHHUH m
+
+TECHNOLOGY
+
+~01“ 1111111111
+
+DWMWW
+
+ 
+
+ 
+
+ 
+
+#include <stdio. h>
+void f1(Void) { printf("a "); }
+void f2(void) { printf("b"); }
+void f3(Void) { printf("c "); }
+void (*f[3])() = { f1,f2,f3 }
+void main(void) {
+
+int i,j,k;
+
+for (i=0; i<100; i++) {
+
+rtrace.c
+
+for (i=0; j<1000000; j++) ; // Long code
+
+k=i/33;
+if (k> 3) continue;
+f[kl();
+}
+printf("\n");
+}
+
+// Here error (when i==99)!
+
+ 
+
+[1 OIly-Dhg - 111.1111» [cm - 111111 111111111, 111111112 11.1111
+Jr111 1.1... b.5119 P111311. 011111.11 111111.11 H.111
+
+ 
+
+[MMSEEHIfMﬂJJJJJBJ R199 lﬁElJJ
+
+1111. 1:11 1.11.1 1311: 11:1 11111211111111
+Cu 11.11.11 1111 111 17711115111
+11:1 111
+
+new 1.511119. 1,
+
+mm mm: m 55- 159111.211
+1111 1.111117151131511
+
+LED (9.1-an m swim
+11119111111 1.1.1111 r. .11: 1.1.1.11
+
+11.111 111mm,.” 111111..
+
+    
+     
+    
+
+1111:
+1111:
+1m
+1m (m.ﬁv
+oral swan
+1:: [91mm m 5511:»:
+1: m: m 1 .1 1.1 r..11.1..1c.11n.1
+1:1: 111:
+:1: 1111:
+:1: mm
+:s 1:111
+mm: mm 1.9 zsmmm m swim
+Wm“ mm 1% 1mm m 5511:?)
+mm as LER 2mm m 95.1mm
+tn 2: m 2:
+1:: REM
+n: ms
+c: 111:
+c: 1111
+c: 1111:
+:1 1111.
+1:: 1111:
+:1 1m
+: 1;: 1m
+1: 111;
+:7 1111.1 :111
+1.112. 111 new mum 1111 11.1111 11
+mm m 1101. sums m 55-11911:
+cm W 1101 mm» m mum”
+emu nwwm M1 nsnmm. 1
+saw an mum:
+. 1: my 11d||.7srmd
+111 8):.WFFFF
+151 mm
+11 m. 9111': we ES: {mi}
+mu m
+w m. rm
+1! mr 11.11.7“111211:
+11w [:1 FFFF
+
+nw mu m 1151111112111
+11.—... 1 3?.
+MmEtmtuunmn
+
+ 
+
+ 
+
+ 
+
+ 
+
+mama.»
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+0 Type here to want .9
+
+  
+
+ 
+
+ 
+
+ 
+
+D.Y £41.“ 9W4 W W
+
+TECHNOLOGY
+
+~Av| 1.111.111“
+
+ 
+
+Immumnm
+1mm
+
+1n mm
+mummu...
+
+1. nan
+. m. 1.
+firm mu
+
+rum m1
+
+11
+1 mu 1.
+3 cm 11
+1 1m 11
+1w 11
+111.111. 1
+
+mu.
+m 11...: .11. 1» mm 1.111..
+1a. 1.11.. 1.11. In ma .1
+1 mm. 113 own .1 mu.
+9mm mm c. xmumxm.m
+
+  
+
+---——-:z:::: :z:
+ilillllillzezzzzizzz“
+
+mlmuﬁhlwulmmrmlmlaau
+
+    
+
+3!!!!
+.1 e...
+
+SHE?
+
+"1311111111 1
+
+!!!!!!!!!!
+nun
+aunt
+
+E13151
+
+.311:
+
+1
+ii
+3
+llIillIHIlililllﬂlﬂﬂﬂﬂﬂl! NH!!!“
+
+ 
+ 
+
+g;
+
+ 
+
+ 
+
+ﬂﬂlﬂmﬂmlmﬂﬂﬂmﬂlﬂﬂﬂm’"""“i‘lllﬂlmnnu‘ﬂi’”
+
+ 
+
+0 Type herein search
+
+ 
+
+6. Conclusion:
+
+We have simulated and studied different tools like Ollydbg, splint and cppcheck to detect
+software vulnerability causing buffer overﬂow attack.
+
+ 
+
+1x11111111 111
+TECHNOLOGY
+
+9 13mm vm4mm
+
+ 
+
+7. Viva Questions:
+0 What do you mean by buffer overﬂow?
+
+8. References:
+
+1. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+2. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+3. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+4. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+5. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
+9 1W1mm
+1&291'1‘N‘B'1‘8'2w
+
+System Security Lab
+Experiment N 0.: 12
+
+Installation and study of password cracking
+tools (J ohn the Ripper)
+
+ 
+
+UKHITAI.” 3W4 W W
+
+|\\IH111U1
+I'L('HNL)LOUY
+
+1w “1‘qu
+
+ 
+
+Experiment N0. 12
+
+1. Aim: Installation and study of password cracking tools (John the Ripper)
+2. Objectives:
+
+0 To learn the fundamentals of password storing, encrypting and cracking.
+0 To evaluate the performance of password cracking using ophcrack tool.
+0 To realize the importance of Choosing a password that is resistant to these
+kinds of attacks
+3. Outcomes: The learner will be able to
+Apply security techniques and technologies to solve real-life security problems in
+practical systems.
+4. Hardware / Software Required: Linux, J ohn the Ripper tool
+5. Theory:
+
+Password Cracking
+
+Password cracking refers to various measures used to discover computer passwords. This is
+usually accomplished by recovering passwords from data stored in, or transported from, a
+computer system. Password cracking is done by either repeatedly guessing the password,
+usually through a computer algorithm in which the computer tries numerous combinations
+until the password is successfully discovered.
+
+Password cracking can be done for several reasons, but the most malicious reason is in order
+to gain unauthon'zed access to a computer without the computer owner’s awareness. This
+results in cybercrime such as stealing passwords for the purpose of accessing banking
+information.
+
+Other, non-malicious, reasons for password cracking occur when someone has misplaced or
+forgotten a password. Another example of non-malicious password cracking may take place if
+a system administrator is conducting tests on password strength as a form of security so that
+hackers cannot easily access protected systems.
+
+In cryptanalysis and computer security, password cracking is the process of recovering
+passwords from data that have been stored in or transmitted by a computer system. A
+common approach (brute-force attack) is to try guesses repeatedly for the password and Check
+them against an available cryptographic hash of the password.
+
+The purpose of password cracking might be to help a user recover a forgotten password
+(installing an entirely new password is less of a security risk, but it involves System
+Administration privileges), to gain unauthorized access to a system, or as a preventive
+measure by system administrators to Check for easily crackable passwords. On a file-by-file
+basis, password cracking is utilized to gain access to digital eVidence for which a judge has
+allowed access but the particular ﬁle's access is restricted.
+
+ 
+
+1x11111111 111
+TECHNOLOGY
+
+$ Dxmu vm4mm
+
+ 
+
+Installation Steps:
+
+1. Download the software John the Ripper from 0penwall.com. On some ununtu distribution
+
+it is readily available so no need to download.
+
+2. Install john
+
+# sudo apt-get install john
+
+3. Create a hash file.
+
+4. G0 to sherylcanter.com/encrypt.php
+
+5. Password hashes are created as:
+UsernamezPassword Creator for HTPASSWD
+DES-encrypted usernamezpassword entry:
+sangita:F.1NVZOi5km0g
+
+mdS-encrypted usernamezpassword entry:
+sangitaz$1$7deMieb$Pth74DXM7WPNjAYXC/GG1
+6. Copy the username and password in a file and name it as pass1.tXt
+7. Run John
+
+#john pass1.tXt
+
+It will give you username and cracked password.
+
+8. You can see cracked password using
+
+#john —sh0w pass1.tXt
+
+It will display :
+
+Sangitazabc
+
+ 
+
+1x11111111111
+TECHNOLOGY
+
+$ 13.113519 vm4mm
+
+ 
+
+6. Conclusion:
+
+We have studied and implemented the password cracket tool J 0hn the Ripper. It is a
+free open source password cracker tool and is very efficient and easy to use.
+
+7. Viva Questions:
+
+0 What is password cracking?
+o How many tools are there for password cracking?
+
+8. References:
+
+6. William Stallings, “Cryptography and Network Security: Principles and Practice”,
+Pearson education, Fifth edition.
+
+7. Bernard Menezes, “Network Security and Cryptography”, Cengage Learning, Second
+Edition.
+
+8. Behrouz A Forouzan, Debdeep Mukhopadhyay, ”Cryptography and Network
+Security”, Tata McGraw Hill, Second edition
+
+9. Behrouz A. Forouzan, “Cryptography and Network Security”, Tata McGraw Hill.
+
+10. Charles P. Pﬂeeger, “Security in Computing”, Pearson Education.
+
+ 
+
